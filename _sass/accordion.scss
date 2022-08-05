@@ -17,8 +17,8 @@
 }
 
 .accordion:after {
-  /**  content: "\002B";  plus sign**/
-  content: "\00A0\00A0\276F";  /**right arrow sign**/
+  content: "\002B";  /**plus sign**/
+  /**content: "\00A0\00A0\276F";  right arrow sign**/
   color: #777;
   font-weight: bold;
   float: right;
@@ -26,9 +26,9 @@
 }
 
 .active:after {
-  /**  content: "\2212";  minus sign**/
-   -webkit-transform: rotate(90deg);
-   transform: rotate(90deg);
+  content: "\2212";  /**minus sign**/
+  /** -webkit-transform: rotate(90deg);**/
+  /** transform: rotate(90deg);**/
 }
 
 .panel {
