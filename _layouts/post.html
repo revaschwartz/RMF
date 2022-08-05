@@ -5,7 +5,7 @@ layout: default
 <section class="tutorial">
 	<section class="tutorial-content">
                 {% assign tname = page.type %}
-                <a href="{{ site.baseurl }}/{{ tname }}.html" style="float:right">{{ tname | upcase }}</a>
+                <a href="{{ site.baseurl }}/{{ tname | downcase }}.html" style="float:right">{{ tname | upcase }}</a>
                 &nbsp&nbsp
 	        <br>
 
