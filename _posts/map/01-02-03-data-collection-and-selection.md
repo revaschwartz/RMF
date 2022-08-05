@@ -3,7 +3,7 @@ date: 2012-01-16
 title: MAP 2.3
 categories:
   - MAP-2
-description: Scientific integrity and TEVV considerations are identified and documented including related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), and construct validation.
+description: Scientific integrity and TEVV (Test, Evaluation, Validation and Verification) considerations are identified and documented including related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), and construct validation.
 type: Map
 order_number: 3
 ---

@@ -13,7 +13,7 @@ order_number: 2
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Impact assessments are a recent approach for driving responsible and ethical technology development practices. And, within a specific use case, these assessments can provide a high-level structure for organizations to frame risks of a given algorithm or deployment. Impact assessments can also serve as a mechanism for organizations to articulate risks and generate documentation for mitigation and oversight activities when harms do arise. 
+Impact assessments are an approach for driving responsible and ethical technology development practices. And, within a specific use case, these assessments can provide a high-level structure for organizations to frame risks of a given algorithm or deployment. Impact assessments can also serve as a mechanism for organizations to articulate risks and generate documentation for mitigation and oversight activities when harms do arise. 
 
 Impact assessments should be applied at the beginning of a process but also iteratively and regularly since goals and outcomes can evolve over time. It is also important to consider conflicts of interest, or undue influence, related to the organizational team being assessed.
 
