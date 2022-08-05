@@ -1,39 +1,43 @@
 ---
 date: 2012-01-16
-title: 6.2 Contingencies for Third Party Systems
+title: GOVERN 6.2
 categories:
-  - 6-Third-Party
-description: Contingencies for Third Party Systems
+  - GOVERN-6
+description: Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.
 type: Govern
 order_number: 2
 ---
+{::options parse_block_html="true" /}
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
-Column C
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+To mitigate the potential harms of third-party system failure, organizations should implement policies and procedures that include redundancies for covering third-party functions. 
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+</details>
 
-Column E
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+* Establish policies for handling third-party system failures to include consideration of redundancy mechanisms for vital third-party AI systems.
+* Ensure that incident response plans address third-party AI systems.
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+</details>
 
-Column G
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
+Column G goes here.
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+</details>
 
-Column H
+<details>
+<summary markdown="span">**What are some informative references?**</summary>
+<br>
+Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+“Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021, available at https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf
 
-<!--more-->
+Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021), https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html
 
-Column D
-
-<!--more-->
-
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
-Column F
+</details>

@@ -1,45 +1,54 @@
 ---
 date: 2012-01-16
-title: 2.3 Data Collection and Selection
+title: MAP 2.3
 categories:
-  - 2-Operation
-description: Data Collection and Selection
+  - MAP-2
+description: Scientific integrity and TEVV considerations are identified and documented including related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), and construct validation.
 type: Map
 order_number: 3
 ---
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
+{::options parse_block_html="true" /}
 
-Have the risks related to data preparation (e.g., collection, selection or labelling) been defined related to training, testing and deployment of the system?
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+Many AI system risks can be traced to insufficient testing and evaluation processes. For example, machine learning requires large scale datasets. The difficulty of finding the “right” data may lead AI actors to select datasets based more on accessibility and availability than on suitability. Such decisions may contribute to an environment where the data used in processes is not fully representative of the populations or phenomena that are being modeled, inserting or introducing downstream risks.
 
-Map adherence to policies that address validity, bias, privacy and security in the use of data for AI systems; ensure that oversight and audit functions, and documentation processes exist. 
+Other risks arise when selected datasets and/or attributes within datasets are not good proxies, measures, or predictors for operationalizing the phenomenon that the AI system intends to support or inform. Practices such as dataset reuse may also lead to data becoming disconnected from the social contexts and time periods of their creation. Datasets may also present security concerns or be polluted by bad actors in an attempt to alter system outcomes.
 
-Work with subject-matter experts to incorporate awareness of how human behavior is reflected in datasets, organizational factors/dynamics, and societal dynamics; identify techniques to mitigate the sources of bias (systemic, computational, human-cognitive) in computational models and systems, and the assumptions and decisions in their development. 
+Collected data may differ significantly from what occurs in the real world. Large scale datasets used in AI systems often do not include representation of people who have been historically excluded. This may have a disproportionately negative impact on black, indigenous, and people of color, women, LGBTQ+ individuals, people with disabilities, or people with limited access to computer network technologies. 
 
-Develop context mapping practices, utilize documentation practices, and document assumptions and constructs used in the selection, curation, preparation, and analysis of data. 
+To manage the dataset risks described above, it is important to:
+* have a clear understanding of data content (e.g., data dictionaries, datasheets), data lineage, provenance, representativeness, legal basis for use, and security
+* follow experimental design best practices
+* consider data suitability and data privacy concerns
+* empirically validate underlying constructs and concepts in data selection.
 
-Plan for data use in AI systems to ensure it is collected and selected in alignment with experimental design practices and that data used in AI systems is reasonably linked to the documented purpose of the AI system (for example, by causal discovery methods).  
+</details>
 
-Document assumptions and ensure validation of concepts used in all stages of data selection or collection, cleaning, and analysis. Document known limitations and efforts to mitigate risk related to training data collection, selection, and data labeling, cleaning and analysis (e.g. treatment of missing, spurious, or outlier data; biased estimators). 
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
-Map and document assumptions and decisions during problem formulation, when identifying constructs and proxy targets, and in the development of indices, especially when seeking to measure concepts that are inherently unobservable (when using constructs such as "hireability", "criminality", "lendability"). 
+* Document assumptions made and techniques used during the selection, curation, preparation, and analysis of data, and when identifying constructs and proxy targets, and developing indices – especially when seeking to measure concepts that are inherently unobservable (e.g. "hireability," "criminality." "lendability").
+* Map adherence to policies that address data and construct validity, bias, privacy and security for AI systems and verify documentation, oversight, and audit function processes.
+* Establish processes and practices that employ experimental design techniques for data collection, selection, and management practices.
+* Establish practices to ensure data used in AI systems is linked to the documented purpose of the AI system (e.g., by causal discovery methods).
+* Establish and document processes to ensure that test and training data lineage is well understood, traceable, and metadata resources are available for mapping risks. 
+* Document known limitations, risk mitigation efforts associated with, and methods used for, training data collection, selection, labeling, cleaning, and analysis (e.g. treatment of missing, spurious, or outlier data; biased estimators).
+* Work with domain experts to:
+    * Gain and maintain contextual awareness and knowledge about how human behavior is reflected in datasets, organizational factors and dynamics, and society.
+    * Identify participatory approaches for responsible Human-AI configurations and oversight tasks, taking into account sources of cognitive bias. 
+    * Identify techniques to manage and mitigate sources of bias (systemic, computational, human-cognitive) in computational models and systems, and the assumptions and decisions in their development.
+* Follow standard statistical principles and document the extent to which the proposed technology does not meet standard validation criteria..
+* Investigate and document potential negative impacts due to supply chain issues that may conflict with organizational values and principles.
 
-Map mechanisms for following rigorous experimental design, hypothesis generation, and hypothesis testing. 
+</details>
 
-Plan to demonstrate that the deployed product is measuring the concept it intends to measure (aka construct validity) and is generalizable beyond the conditions under which the technology was developed (aka external validity). Adhere to standard statistical principles for justifying the scope, and generalizing outcomes of AI systems. Document the extent to which the proposed technology does not meet these or other validation criteria. 
-
-Plan for alignment of system requirements and implementations with data privacy and security norms and policies. 
-
-Consider and document any potential negative impacts due to supply chain issues as related to organizational values. 
-
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
-
-[Organizational management, AI design, AI development, AI deployment, Human factors, Domain experts]
-
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
-
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
 **Transparency Considerations – Key Questions: MAP 2.3**
 - Are there any known errors, sources of noise, or redundancies in the data?
 - Over what time-frame was the data collected? Does the collection time-frame match the creation time-frame
@@ -53,56 +62,49 @@ Consider and document any potential negative impacts due to supply chain issues 
 -  Companion to the Model AI Governance Framework- 2020
 -  GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 -  ATARC Model Transparency Assessment (WD) – 2020
--  Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020 
+-  Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
-
-AI design and development practices often rely on large scale datasets to drive ML processes. This reliance may lead researchers, developers, and practitioners to select data based on availability and accessibility and adapt their questions accordingly - which can lead to downstream risks. Additionally, selected datasets and/or attributes within datasets may not provide good proxies, measures, or predictors for operationalizing the phenomenon that the AI system intends to support or inform. These factors heighten the importance of experimental design best practices and consideration of data suitability and data privacy concerns. Constructs and concepts that underlie data selection and use should be empirically validated. 
-
-A clear understanding of data content (e.g., data dictionaries, datasheets), data lineage, provenance, representativeness, legal basis for use, and security is important to risk management efforts. Data may be wrong, of low quality, or otherwise inaccurate. Data used in AI development processes may not be related to or representative of populations or the phenomena that are being modeled. The data that is collected can differ significantly from what occurs in the real world. Disproportionaly impacted groups may include black, indigenous, and people of color, women, LGBTQ+ individuals, people with disabilities, and people with limited access to computer network technologies. These groups tend to be historically excluded in the large scale datasets used in AI systems. Other issues arise due to the common ML practice of reusing datasets. Under such practices, datasets may become disconnected from the social contexts and time periods of their creation. Moreover, datasets may be collected or used in contravention of data privacy norms, policies or laws. Datasets may also present security concerns, such as being poisoned by bad actors in attempt to alter systems outcomes.
-
-<!--more-->
-
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
+<details>
+<summary markdown="span">**What are some informative references?**</summary>    
+<br>
 **Challenges with dataset selection**
 
-Alexandra Olteanu, Carlos Castillo, Fernando Diaz, and Emre Kiciman. 2019. Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. Front. Big Data 2, 13 (11 July 2019). DOI: [Link](https://doi.org/10.3389/fdata.2019.00013)
- 
-Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from [arXiv:2012.05345](https://arxiv.org/abs/2012.05345)
+Alexandra Olteanu, Carlos Castillo, Fernando Diaz, and Emre Kiciman. 2019. Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. Front. Big Data 2, 13 (11 July 2019). DOI: https://doi.org/10.3389/fdata.2019.00013
 
-Catherine D'Ignazio and Lauren F. Klein. 2020. Data Feminism. The MIT Press, Cambridge, MA. See [Link](https://data-feminism.mitpress.mit.edu/)
+Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from https://arxiv.org/abs/2012.05345
+
+Catherine D'Ignazio and Lauren F. Klein. 2020. Data Feminism. The MIT Press, Cambridge, MA. See https://data-feminism.mitpress.mit.edu/
 
 Miceli, M., & Posada, J. (2022). The Data-Production Dispositif. ArXiv, abs/2205.11963.
 
-Barbara Plank. 2016. What to do about non-standard (or non-canonical) language in NLP. arXiv:1608.07836. Retrieved from [arXiv:1608.07836](https://arxiv.org/abs/1608.07836)
+Barbara Plank. 2016. What to do about non-standard (or non-canonical) language in NLP. arXiv:1608.07836. Retrieved from https://arxiv.org/abs/1608.07836
 
 **Dataset and test, evaluation, validation and verification (TEVV) processes in AI system development**
 
-National Institute of Standards and Technology (NIST), Reva Schwartz, Apostol Vassilev, et al. 2022. NIST Special Publication 1270 Towards a Standard for Identifying and Managing Bias in Artificial Intelligence. DOI: [Link](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf)
+National Institute of Standards and Technology (NIST), Reva Schwartz, Apostol Vassilev, et al. 2022. NIST Special Publication 1270 Towards a Standard for Identifying and Managing Bias in Artificial Intelligence. DOI: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf
 
-Inioluwa Deborah Raji, Emily M. Bender, Amandalynne Paullada, et al. 2021. AI and the Everything in the Whole Wide World Benchmark. arXiv:2111.15366. Retrieved from [arXiv:2111.15366](https://arxiv.org/abs/2111.15366)
+Inioluwa Deborah Raji, Emily M. Bender, Amandalynne Paullada, et al. 2021. AI and the Everything in the Whole Wide World Benchmark. arXiv:2111.15366. Retrieved from https://arxiv.org/abs/2111.15366
 
 **Statistical balance**
 
-Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 2019. Dissecting racial bias in an algorithm used to manage the health of populations. Science 366, 6464 (25 Oct. 2019), 447-453. DOI: [Link](https://doi.org/10.1126/science.aax2342)
+Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 2019. Dissecting racial bias in an algorithm used to manage the health of populations. Science 366, 6464 (25 Oct. 2019), 447-453. DOI: https://doi.org/10.1126/science.aax2342
 
-Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from [arXiv:2012.05345](https://arxiv.org/abs/2012.05345)
+Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from https://arxiv.org/abs/2012.05345
 
-Solon Barocas, Anhong Guo, Ece Kamar, et al. 2021. Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs. Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. Association for Computing Machinery, New York, NY, USA, 368–378. [Link](https://doi.org/10.1145/3461702.3462610)
+Solon Barocas, Anhong Guo, Ece Kamar, et al. 2021. Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs. Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. Association for Computing Machinery, New York, NY, USA, 368–378. https://doi.org/10.1145/3461702.3462610
 
 **Measurement and evaluation**
 
-Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘21). Association for Computing Machinery, New York, NY, USA, 375–385. [Link](https://doi.org/10.1145/3442188.3445901)
+Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘21). Association for Computing Machinery, New York, NY, USA, 375–385. https://doi.org/10.1145/3442188.3445901
 
-Ben Hutchinson, Negar Rostamzadeh, Christina Greer, et al. 2022. Evaluation Gaps in Machine Learning Practice. arXiv:2205.05256. Retrieved from [arXiv:2205.05256](https://arxiv.org/abs/2205.05256)
+Ben Hutchinson, Negar Rostamzadeh, Christina Greer, et al. 2022. Evaluation Gaps in Machine Learning Practice. arXiv:2205.05256. Retrieved from https://arxiv.org/abs/2205.05256
 
 **Existing frameworks**
 
-National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. URL: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST .CSWP, 4162018.
+National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. URL: https://nvlpubs. nist. gov/nistpubs/CSWP/NIST. CSWP, 4162018.
 
-Boeckl, K. R., & Lefkovitz, N. B. (2020). NIST privacy framework: A tool for improving privacy through enterprise risk management, version 1.0. [URL](https://www.nist.gov/privacy-framework/privacy-framework)
+Boeckl, K. R., & Lefkovitz, N. B. (2020). NIST privacy framework: A tool for improving privacy through enterprise risk management, version 1.0. URL:https://www.nist.gov/privacy-framework/privacy-framework
+
+</details>

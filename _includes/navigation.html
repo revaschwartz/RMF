@@ -1,14 +1,21 @@
-<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 <nav>
 	{% for link in site.data.navigation %}
-	{% assign class = "" %}
+	{% assign status = "" %}
 		{% if link.link == page.url %}
-                    {% assign class = class | append: " active" %}
+                    {% assign status = status | append: " active" %}
 		{% endif %}
                 {% if link.name == 'MEASURE' or link.name == 'MANAGE'  %}
-                  <a class="{{ class }}">{{ link.name }}</a>
+                     <a class="{{ status }}">{{ link.name }}</a>
                 {% else %}
-		  <a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
+                    {% if link.name == 'ABOUT' %}
+       			 <button  class="navbtn scale"><a class="">&nbsp;</a></button>
+        		 <button  class="navbtn scale"><a href="{% include relative-src.html src=link.link %}">ABOUT</a></button>
+                    {% else %}
+                    	 <button class="navbtn scale">
+		    	 <a href="{% include relative-src.html src=link.link %}" >{{ link.name }}</a>
+                         </button>
+                    {% endif %}
                 {% endif %}
 	{% endfor %}
 </nav>
+

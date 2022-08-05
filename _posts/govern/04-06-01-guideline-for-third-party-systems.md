@@ -1,39 +1,51 @@
 ---
 date: 2012-01-16
-title: 6.1 Guidelines for Third Party Systems
+title: GOVERN 6.1
 categories:
-  - 6-Third-Party
-description: Guidelines for Third Party Systems
+  - GOVERN-6
+description: Policies and procedures are in place that address risks associated with third-party entities.
 type: Govern
 order_number: 1
 ---
+{::options parse_block_html="true" /}
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
-Column C
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+Organizations usually engage multiple third parties for external expertise, data, software packages (both open source and commercial), and software and hardware platforms across the AI lifecycle.  
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+The need to rely on external resources or expertise may heighten existing challenges in an already complex undertaking, increasing the difficulty of risk management efforts. 
 
-Column E
+Organizational approaches to managing third-party risk should be tailored to the resources, risk profile, and use case for each system. Organizations should strive to apply governance approaches to third-party AI system and datal as they would for internal resources — including open source software, publicly available data, and commercially available models.
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+</details>
 
-Column G
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<br>
+* Collaboratively establish policies that address third-party AI systems and data.
+* Establish policies related to:
+    * Transparency into third-party system functions, including knowledge about training data, training and inference algorithms, and assumptions and limitations.
+    * Thorough testing of third-party AI systems.
+    * Requirements for clear and complete instructions for third-party system usage.
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+</details>
 
-Column H
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
+Column G goes here.
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
+<details>
+<summary markdown="span">**What are some informative references?**</summary>
+<br>
+Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 
-Column D
+“Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021, available at https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf
 
-<!--more-->
+Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021), https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html
 
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
-Column F
+</details>

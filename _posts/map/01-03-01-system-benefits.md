@@ -1,32 +1,39 @@
 ---
 date: 2012-01-16
-title: 3.1 System Benefits
+title: MAP 3.1
 categories:
-  - 3-Benefits
-description: System Benefits
+  - MAP-3
+description: Benefits of intended system behavior are examined and documented.
 type: Map
 order_number: 1
 ---
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
+{::options parse_block_html="true" /}
 
-Have the benefits of the system been articulated and assessed?
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+AI system benefits should counterbalance the inherent risks and implicit and explicit costs. To identify system benefits, organizations should define and document system purpose and utility, along with foreseeable costs, risks, and negative impacts. Credible justification for anticipated benefits beyond the status quo should be clarified and documented.
 
-Incorporate stakeholder feedback to document perceived system benefits above the status quo and align with other stakeholder needs; consider inclusion of a more formal cost-benefit analysis in subsequent measurement stages of risk management. 
+</details>
 
-Perform context analysis related to timeframe, safety concerns, geographic area, physical environment, ecosystems, social environment, and cultural norms within which the expected benefits or negative impacts exist. 
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+* Utilize participatory approaches and engage with system end users to evaluate system efficacy and interpretability of AI task output. 
+* Incorporate stakeholder feedback about perceived system benefits beyond the status quo. 
+* Align system requirements with intended purpose and document decisions. 
+* Perform context analysis related to time frame, safety concerns, geographic area, physical environment, ecosystems, social environment, and cultural norms within the intended setting (or conditions that closely approximate the intended setting).
 
-[Organizational management, AI design, AI development, Human factors, TEVV]
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
-
-**Transparency Considerations – Key Questions: MAP 3.1** 
-- Did you communicate the benefits of the AI system to users? 
-- Did you provide appropriate training material and disclaimers to users on how to adequately use the AI system? 
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
+**Transparency Considerations – Key Questions: MAP 3.1**
+- Did you communicate the benefits of the AI system to users?
+- Did you provide appropriate training material and disclaimers to users on how to adequately use the AI system?
 - Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
 
 **AI Transparency Resources: MAP 3.1**
@@ -34,18 +41,13 @@ Perform context analysis related to timeframe, safety concerns, geographic area,
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
-
-AI systems have implicit and explicit costs, and inherent risks. Systems should present a benefit to counteract these costs and risks. To identify system benefits, organizations can define and document system purpose and utility, along with foreseeable costs, risks, and negative impacts. This information should include credible justification for anticipated benefits beyond the status quo.
-
-<!--more-->
-
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
+<details>
+<summary markdown="span">**What are some informative references?**</summary>    
+<br>
 Roel Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2021. Hard choices in artificial intelligence. Artificial Intelligence 300 (14 July 2021), 103555, ISSN 0004-3702. DOI: https://doi.org/10.1016/j.artint.2021.103555
 
 Samir Passi and Solon Barocas. 2019. Problem Formulation and Fairness. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* '19). Association for Computing Machinery, New York, NY, USA, 39–48. https://doi.org/10.1145/3287560.3287567
+
+</details>

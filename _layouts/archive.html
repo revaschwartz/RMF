@@ -7,13 +7,11 @@ layout: default
 
 <a href="{{ site.baseurl }}/{{ tname }}/" style="float:right">{{ tname | upcase }}</a>
 
-<h3 style="text-transform:capitalize;">{{ page.title | replace: "-", " " }} <span class="count">({{ posts | size }})</span></h3>
-
 {% assign cat =  site.data.category | where: "name", page.title %}
+
+<h3 style="text-transform:capitalize;">{{ page.title | replace: "-", " " }}: {{cat[0].title}} </h3>
 
 <p style="font-family:'Open Sans'">
 	{{ cat[0].description }}
 </p>
 
-<br/>
-{% include listings.html listings=posts %}

@@ -1,39 +1,51 @@
 ---
 date: 2012-01-16
-title: 4.2 Team Empowerment
+title: GOVERN 4.2
 categories:
-  - 4-Risk-Culture
-description: Team Empowerment
+  - GOVERN-4
+description: Organizational teams document the risks and impacts of the technology they design, develop, or deploy and communicate about these impacts more broadly.
 type: Govern
 order_number: 2
 ---
+{::options parse_block_html="true" /}
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
-Column C
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+Impact assessments are a recent approach for driving responsible and ethical technology development practices. And, within a specific use case, these assessments can provide a high-level structure for organizations to frame risks of a given algorithm or deployment. Impact assessments can also serve as a mechanism for organizations to articulate risks and generate documentation for mitigation and oversight activities when harms do arise. 
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+Impact assessments should be applied at the beginning of a process but also iteratively and regularly since goals and outcomes can evolve over time. It is also important to consider conflicts of interest, or undue influence, related to the organizational team being assessed.
 
-Column E
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+* Establish impact assessment policies and processes for AI systems used by the organization.
+* Ensure impact assessment policies are appropriate to evaluate the potential negative impact of a system and how quickly a system changes, and that assessments are applied on a regular basis.
+* Ensure impact assessments are utilized to inform broader assessments of AI system risk.
 
-Column G
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
+Column G goes here.
 
-Column H
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+<details>
+<summary markdown="span">**What are some informative references?**</summary>
+<br>
+Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 
-<!--more-->
+Patrick Hall, Navdeep Gill, and Benjamin Cox, “Responsible Machine Learning,” O’Reilly Media, 2020, available at https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/
 
-Column D
+Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for Deposit-Taking
+Institutions, E-23 (Sept. 2017).
 
-<!--more-->
+GAO, “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities,” GAO@100 (GAO-21-519SP), June 2021, https://www.gao.gov/assets/gao-21-519sp.pdf.
 
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
+Donald Sull, Stefano Turconi, and Charles Sull, “When It Comes to Culture, Does Your Company Walk the Talk?” MIT Sloan Mgmt. Rev., 2020, https://sloanreview.mit.edu/article/when-it-comes-to-culture-does-your-company-walk-the-talk.
 
-<!--more-->
-
-Column F
+</details>

@@ -1,27 +1,34 @@
 ---
 date: 2012-01-16
-title: 2.1 Learning Task
+title: MAP 2.1
 categories:
-  - 2-Operation
-description: Learning Task
+  - MAP-2
+description: The specific learning task that the AI system will support is defined (e.g., classifiers, generative models, recommenders).
 type: Map
 order_number: 1
 ---
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
-Has the specific learning task of the system been defined?
+{::options parse_block_html="true" /}
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
 
-Narrowly define and document AI system learning task(s) along with known assumptions and limitations.
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+AI actors should define the technical learning or decision-making task an AI system is designed to accomplish, along with the benefits that the system will provide. The clearer and narrower the task definition, the easier it is to map its benefits and risks, leading to more fulsome risk management.
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+</details>
 
-[AI design, Human factor]
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+* Narrowly define and document AI system learning task(s) along with known assumptions and limitations.
 
+</details>
+
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
 **Transparency Considerations – Key Questions: MAP 2.1**
 
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
@@ -38,18 +45,14 @@ Narrowly define and document AI system learning task(s) along with known assumpt
 - ATARC Model Transparency Assessment (WD) – 2020
 - Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
+<details>
+<summary markdown="span">**What are some informative references?**</summary>    
+<br>
+Leong, Brenda (2020). The Spectrum of Artificial Intelligence - An Infographic Tool. Future of Privacy Forum. Retrieved from https://fpf.org/blog/the-spectrum-of-artificial-intelligence-an-infographic-tool/
 
-It's important to specifiy and clearly define the technical learning or decision-making task an AI system is designed to accomplish, and the benefits that the system will provide. The clearer and narrower the definition of the task, the easier it is to map benefits and risks, leading to more fulsome risk management for the system.
+Brownlee, Jason (2020). A Tour of Machine Learning Algorithms. Machine Learning Mastery. Retrieved from https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/.
 
-<!--more-->
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
-Leong, Brenda (2020). The Spectrum of Artificial Intelligence - An Infographic Tool. Future of Privacy Forum. Retrieved from [Future of Privacy Forum](https://fpf.org/blog/the-spectrum-of-artificial-intelligence-an-infographic-tool/) 
-
-Brownlee, Jason (2020). A Tour of Machine Learning Algorithms. Machine Learning Mastery. Retrieved from [Machine Learning Mastery](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/).

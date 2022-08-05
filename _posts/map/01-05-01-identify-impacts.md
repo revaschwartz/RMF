@@ -1,39 +1,39 @@
 ---
 date: 2012-01-16
-title: 5.1 Identify Impacts
+title: MAP 5.1
 categories:
-  - 5-Impact-Assessment
-description: Identify Impacts
+  - MAP-5
+description: Potential positive or negative impacts to individuals, groups, communities, organizations, or society are regularly identified and documented.
 type: Map
 order_number: 1
 ---
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
+{::options parse_block_html="true" /}
 
-Have the broader impacts of the system been assessed in relationship to potential users, organizations or society as a whole?
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+AI systems are socio-technical in nature and can have positive, neutral, or negative implications that extend beyond their stated purpose. Negative impacts can be wide- ranging and affect individuals, groups, communities, organizations, and society, as well as the environment and national security. 
 
-Standardize stakeholder engagement processes at the earliest stages of system formulation to identify potential impacts from the AI system on individuals, groups, communities, organizations, and society.
+The Map function provides an opportunity for organizations to assess potential AI system impacts based on identified risks. This enables organizations to create a baseline for system monitoring and to increase opportunities for detecting emergent risks. Impact assessments also help to identify new benefits and purposes which may arise from AI system use. After an AI system is deployed, engaging different stakeholder groups – who may be aware of, or experience, benefits or negative impacts that are unknown to AI actors – allows organizations to understand and monitor system benefits and impacts more readily.
 
-Employ methods such as value sensitive design (VSD) to identify baseline organizational and societal values for evaluating alignment/misalignment of system implementation and impact. 
+</details>
 
-Identify transparent approaches to seek, capture, and incorporate input from system users and other key stakeholders to assist with monitoring impacts and emergent risks. 
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
-Incorporate quantitiative, qualitative, and mixed methods in the assessment and documentation of potential impacts for individuals, groups, communities, organizations, and society. 
+* Establish and document stakeholder engagement processes at the earliest stages of system formulation to identify potential impacts from the AI system on individuals, groups, communities, organizations, and society. 
+* Employ methods such as value sensitive design (VSD) to identify misalignments between organizational and societal values, and system implementation and impact. 
+* Identify approaches to engage, capture, and incorporate input from system users and other key stakeholders to assist with continuous monitoring for impacts and emergent risks. Incorporate quantitative, qualitative, and mixed methods in the assessment and documentation of potential impacts to individuals, groups, communities, organizations, and society. 
+* Identify a team (internal or external) that is independent of AI design and development functions to assess AI system benefits, positive and negative impacts and their likelihood. 
+* Develop impact assessment procedures that incorporate socio-technical elements and methods and plan to normalize across organizational culture. Regularly review and refine impact assessment processes. 
 
-Identify a team (internal or external) that is independent of AI design and development functions to assess the impact and likelihood of potential harms in relation to the expected benefits of the system. 
+</details>
 
-Define impact assessment processes that incorporate socio-technical elements and methods, and plan to normalize across organizational culture. 
-
-Review and refine impact assessments once completed.
-
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
-
-[Organizational management, AI design, AI development, AI deployment, Human factors, Impact assessment]
-
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
-
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
 **Transparency Considerations – Key Questions: MAP 5.1**
 - If it relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated?
 - If it relates to other ethically protected subjects, have appropriate obligations been met? (e.g., medical data might include information collected from animals)
@@ -46,20 +46,11 @@ Review and refine impact assessments once completed.
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
-
-As AI systems are socio-technical in nature, they are likely to have implications that extend beyond the stated purpose. These broader impacts can be classified as positive, neutral, or negative. Impacts can affect individuals, groups, communities, organizations, and society, as well as the environment, or national security. Assessing potential impacts in the mapping stage provides a baseline for system monitoring, enables adapting of tradeoffs between positive and adverse impacts, and detection of emergent risks. Impact assessments also enable risk management and mitigation, and provides an opportunity to capture new value which may arise from AI system use.
-
-Different stakeholder groups may be aware of, or experience, benefits or harms that are unknown to internal system designers and can share their perspectives to inform an improved system design. Stakeholder feedback during system operation is also important for monitoring emergent risks that are newly introduced or amplified by AI systems, or may not be easily recognized or detected by internal technical teams.
-
-<!--more-->
-
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
+<details>
+<summary markdown="span">**What are some informative references?**</summary>
+<br>
 Susanne Vernim, Harald Bauer, Erwin Rauch, et al. 2022. A value sensitive design approach for designing AI-based worker assistance systems in manufacturing. Procedia Comput. Sci. 200, C (2022), 505–516. [DOI](https://doi.org/10.1016/j.procs.2022.01.248)
 
 Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. arXiv:1901.10002. Retrieved from [arXiv:1901.10002](https://arxiv.org/abs/1901.10002)
@@ -77,3 +68,5 @@ Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Hea
 Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 2022. [Microsoft-RAI-Impact-Assessment-Template](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
 
 Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. [Microsoft-RAI-Impact-Assessment-Guide](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
+
+</details>

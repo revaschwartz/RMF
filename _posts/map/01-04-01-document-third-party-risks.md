@@ -1,35 +1,40 @@
 ---
 date: 2012-01-16
-title: 4.1 Document Third Party Risks
+title: MAP 4.1
 categories:
-  - 4-Third-Party
-description: Document Third Party Risks
+  - MAP-4
+description: Approaches for mapping third-party technology risks are in place and documented.
 type: Map
 order_number: 1
 ---
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
+{::options parse_block_html="true" /}
 
-Have risks in the third-party entities been mapped, triaged and documented?
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+Due to the complex nature of AI technology, organizations often engage third-party support. Technologies and personnel from third-parties are another source of risk to consider during AI risk management activities. Such risks may be difficult to map since third-party provider risk tolerances may not be the same as the contracting institution.
 
-Review audit reports, testing results, product roadmaps, warranites, terms of service, end-user license agreements, contracts and other documentation related to third-party entities that can assist in value assessment and risk management. 
+Commercial, open source, and other freely-available technologies should be screened for third-party risks and transparently documented. For example, many reports suggest that the use of commercial large language models are a source of AI risks. These models are popular with AI developers due to their ease of use for inference tasks, and tend to rely on large uncurated web dataset or often have undisclosed origins. Large scale use of these models has raised concerns about privacy, bias, and unintended effects along with possible introduction of increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity. 
 
-Review third-party software release schedules and software change management plans (hotfixes, patches, updates, forward- and backward- compatibility guarantees) for irregularities.  
+</details>
 
-Review potential technology and human redunancies to address third-party entity failures. 
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
-Inventory third-party entities (hardware, open-source software, foundation models, open source data, proprietary software, proprietary data, etc.) necessary for implementation and maintenance of the system.
+* Review audit reports, testing results, product roadmaps, warranties, terms of service, end-user license agreements, contracts, and other documentation related to third-party entities to assist in value assessment and risk management activities.
+* Review third-party software release schedules and software change management plans (hotfixes, patches, updates, forward- and backward- compatibility guarantees) for irregularities that may contribute to AI system risks.
+* Inventory third-party material (hardware, open-source software, foundation models, open source data, proprietary software, proprietary data, etc.) required for system implementation and maintenance.
+* Review redundancies related to third-party technology and personnel to assess potential risks due to lack of adequate support.
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+</details>
 
-[Organizational management, AI development, third-party entities, AI deployment, Human factors]
-
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
-
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
 **Transparency Considerations – Key Questions: MAP 4.1**
-- Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system? 
+- Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
 - If your organization obtained datasets from a third party, did your organization assess and manage the risks of using such datasets?
 - How will the results independently verified?
 
@@ -38,21 +43,12 @@ Inventory third-party entities (hardware, open-source software, foundation model
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - WEF Model AI Governance Framework Assessment 2020
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
-
-Risks from third-party technologies and personnel are often more difficult to map, as AI technologies are particularly complex or opaque and third-party organization risk tolerances or values may not align to those of the consuming institution. In spite of - and due to - these difficulties, the importance of managing and transparently documenting the risk of third-party technologies and personnel cannot be overstated. Commercial, open source and other freely-available technologies should be screened for third-party risks. 
-
-For example, foundation models are popular with AI developers due to their ease of use for inference tasks. These models tend to rely on large uncurated web datasets, which often have undisclosed origins - raising concerns about privacy, bias, and unintended effects. Other risks may arise due to increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity. Bias incidents have been reported in relation to use of these models. 
-
-<!--more-->
-
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
-**Foundation models**
+<details>
+<summary markdown="span">**What are some informative references?**</summary>    
+<br>
+**Language  models**
 
 Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 610–623. [Link](https://doi.org/10.1145/3442188.3445922)
 
@@ -63,3 +59,7 @@ Laura Weidinger, Jonathan Uesato, Maribeth Rauh, et al. 2022. Taxonomy of Risks 
 Office of the Comptroller of the Currency. 2021. Comptroller's Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from [OCC](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
 
 Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, et al. 2021. On the Opportunities and Risks of Foundation Models. arXiv:2108.07258. Retrieved from [arXiv:2108.07258](https://arxiv.org/abs/2108.07258)
+
+
+</details>
+

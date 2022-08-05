@@ -1,39 +1,59 @@
 ---
 date: 2012-01-16
-title: 2.1 Roles and Responsibilities
+title: GOVERN 2.1
 categories:
-  - 2-Accountability
-description: Roles and Responsibilities
+  - GOVERN-2 
+description: Roles and responsibilities and lines of communication related to mapping, measuring and managing AI risks are clear to individuals and teams throughout the organization.
 type: Govern
 order_number: 1
 ---
+{::options parse_block_html="true" /}
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
-Column C
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+The development of a risk-aware organizational culture starts with the definition of responsibilities. Under ideal risk management settings, oversight professionals are independent from model developers and report through risk management functions or directly to executives, countering implicit biases such as groupthink. This creates a firewall between technology development and risk management functions, so efforts cannot be easily bypassed or ignored.
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+There are numerous approaches for establishing strong risk management structures and tailoring them to the organizational risk profiles and resources. Facilitating a culture where AI system design and implementation decisions can be questioned and course-corrected by empowered stakeholders provides organizations with tools to anticipate and effectively manage risks before they materialize.
 
-Column E
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+* Establish policies that define the AI risk management roles and responsibilities for:
+    * Boards of directors or advisory committees
+    * Senior management
+    * AI audit functions
+    * AI design
+    * AI development
+    * Human-AI interaction
+    * AI testing and evaluation
+    * AI acquisition and procurement
+    * Impact assessment functions
+    * Oversight functions 
+* Establish policies that promote regular communication among teams participating in AI risk management efforts.
+* Establish policies that separate management of AI system development functions from AI system testing functions, to enable independent course-correction of AI systems.
+* Establish policies to prevent conflicts of interest, and counteract confirmation bias and market incentives that may hinder AI risk management efforts.
 
-Column G
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
+Column G goes here.
 
-Column H
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+<details>
+<summary markdown="span">**What are some informative references?**</summary>
+<br>
+Andrew Smith, “Using Artificial Intelligence and Algorithms,” FTC Business Blog (Apr. 8, 2020), available at https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms.
 
-<!--more-->
+Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for Deposit-Taking Institutions, E-23 (Sept. 2017).
 
-Column D
+Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011).
 
-<!--more-->
+Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021), https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html.
 
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
-Column F
+</details>

@@ -1,45 +1,52 @@
-footer {
-	background: #343642;
-	color: #fff;
-	padding: 20px 0;
-
-	.edit-footer {
-		text-align: center;
-		margin: 0;
-	}
-
-	.copyright {
-		color: $medium-grey;
-		margin: 0;
-		text-align: center;
-		font-size: .9em;
-	}
-
-	a {
-		color: #fff;
-		text-decoration: none;
-
-		&:hover svg {
-			fill: #fff;
-		}
-	}
-
-	ul {
-		padding: 0;
-		list-style: none;
-		margin: 0;
-		text-align: center;
-	}
-
-	li {
-		display: inline-block;
-		margin: 0 6px 15px 0;
-	}
-
-	svg {
-		fill: $medium-grey;
-		position: relative;
-		top: 5px;
-		transition: fill 200ms ease-in;
-	}
+.page-wrap {
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
 }
+
+footer {
+	width: 100%;
+	background-color: #8DC63F;
+	display: block;
+	float: left;
+	clear: both;
+	text-align:center;
+}
+
+.footer-top { width: 100%; float: left;padding-top:10px; color: #FFFFFF;}
+
+.footer-bottom {
+	width: 100%;
+	text-align: center;
+    
+	float: left;
+	display: inline-block;
+}
+
+.footermenu a {
+	color: #FFFFFF;
+	float: left;
+	font-size: medium;
+	list-style-type: none;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.footermenu li {
+	width: auto;
+	float: left;
+	text-align: center;
+	list-style-type: none;
+	text-decoration: none;
+}
+.footermenu {
+	text-decoration: none;
+	width: 266px;
+    margin: 0 auto;
+	text-align: center;
+}
+

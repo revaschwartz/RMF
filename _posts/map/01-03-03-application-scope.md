@@ -1,31 +1,39 @@
 ---
 date: 2012-01-16
-title: 3.3 Application Scope
+title: MAP 3.3
 categories:
-  - 3-Benefits
-description: Application Scope
+  - MAP-3
+description: Targeted application scope is specified, narrowed, and documented based on established context and AI system classification.
 type: Map
 order_number: 3
 ---
 
-## <span style="color:black;font-weight:360;font-size:26px">Question</span>
+{::options parse_block_html="true" /}
 
-Has the scope of the system been narrowed to reasonably ensure it will only be used as intended and that risks can be managed properly?
 
-## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
+<details>
+<summary markdown="span">**What is this subcategory about?**</summary>
+<br>
+After mapping context, the AI system scope should be narrowed. Systems that function in a narrow scope tend to enable better mapping, measurement, and management of risks in the learning or decision-making tasks and the system context. A narrow application scope also helps ease oversight functions and related resources within an organization.
 
-Decide on narrow contexts in which a system will be deployed, such as limiting the time the system is deployed in between retrainings, targeting the geographical regions in which the system will operate, or defining clear user or stakeholder outcomes.
+For example, open-ended chatbot systems that interact with the public on the internet have a large number of risks that may be difficult to map, measure, and manage due to the variability from both the decision-making task and the operational context. 
 
-Define metrics by which internal and external validity, and bias in system outcomes will be measured, and establish expected thresholds or tolerances for those metrics. 
+</details>
 
-Involve legal or product policy teams in developing and enforcing guidelines or policies for managing risks and misuse due to downstream deployment by third parties. 
+<details>
+<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
-## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+* Consider narrowing contexts for system deployment, including factors related to:
+    * How outcomes may directly or indirectly impact users and stakeholders.
+    * Length of time the system is deployed in between re-trainings. 
+    * Geographical regions in which the system operates.
+* Engage AI actors in legal and procurement functions when specifying target application scope.
 
-[Organizational management, AI design, AI development, AI deployment, TEVV]
+</details>
 
-## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
-
+<details>
+<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<br>
 **Transparency Considerations – Key Questions: MAP 3.3**
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
 - How do the technical specifications and requirements align with the AI system’s goals and objectives?
@@ -36,20 +44,15 @@ Involve legal or product policy teams in developing and enforcing guidelines or 
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
 
-## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
+</details>
 
-<!--more-->
-
-Once an AI system has been ideated, and its context and purpose mapped, its scope of application should be narrowed. Systems that function in a narrow scope tend to enable better mapping, measurement and management of risks, in both the learning or decision-making task, and in the system context. For example, open-ended chatbot systems that interact with the public on the internet have a large number of risks that may be difficult to map, measure and manage due to the variability from both the decision-making task and the operational context. A narrow application scope also helps ease oversight functions and related resources within an organization.
-
-<!--more-->
-
-## <span style="color:black;font-weight:360;font-size:26px">Where might I go to learn more?</span>
-
-<!--more-->
-
+<details>
+<summary markdown="span">**What are some informative references?**</summary>    
+<br>
 Mark J. Van der Laan and Sherri Rose (2018). Targeted Learning in Data Science. Cham: Springer International Publishing, 2018.
 
 Alice Zheng. 2015. Evaluating Machine Learning Models (2015). O'Reilly. Retrieved from https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/.
 
 Brenda Leong and Patrick Hall (2021). 5 things lawyers should know about artificial intelligence. ABA Journal. Retrieved from https://www.abajournal.com/columns/article/5-things-lawyers-should-know-about-artificial-intelligence.
+
+</details>
