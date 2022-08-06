@@ -1,18 +1,29 @@
-<nav>
+<nav>  
 	{% for link in site.data.navigation %}
 	{% assign status = "" %}
+        {% assign color = "white" %}
+        {% assign baselink=link.link | remove:'/' %}
 		{% if link.link == page.url %}
                     {% assign status = status | append: " active" %}
 		{% endif %}
+                 
+                {% if link.link == page.url %}
+                   {% assign color = "yellow" %}
+                {% else %}
+                     {% if page.url  contains baselink and link.link!='/' %}
+                        {% assign color = "yellow" %}
+                     {% endif %%}
+                {% endif %}                
+
                 {% if link.name == 'MEASURE' or link.name == 'MANAGE'  %}
                      <a class="{{ status }}">{{ link.name }}</a>
                 {% else %}
                     {% if link.name == 'ABOUT' %}
        			 <button  class="navbtn scale"><a class="">&nbsp;</a></button>
-        		 <button  class="navbtn scale"><a href="{% include relative-src.html src=link.link %}">ABOUT</a></button>
+        		 <button  class="navbtn scale"><a href="{% include relative-src.html src=link.link %}"><span style="color:{{ color }};">ABOUT</span></a></button>
                     {% else %}
                     	 <button class="navbtn scale">
-		    	 <a href="{% include relative-src.html src=link.link %}" >{{ link.name }}</a>
+		    	 <a href="{% include relative-src.html src=link.link %}" ><span style="color:{{ color }};">{{ link.name }}</span></a>
                          </button>
                     {% endif %}
                 {% endif %}
