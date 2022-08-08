@@ -24,20 +24,15 @@ Individuals and organizations cannot be held accountable to unwritten, unknown o
 <summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 <br>
 Establish and maintain formal AI risk management policies that address AI system trustworthy characteristics throughout the system’s lifecycle. Organizational policies should:
-* Define key terms and concepts related to AI systems and the scope of their intended use. 
-* Address the use of sensitive or otherwise risky data.
-* Detail standards for experimental design, data quality, and model training.
-* Outline and document risk mapping and measurement processes and standards.
-* Detail model testing and validation processes.
-* Detail review processes for legal and risk functions.
-* Establish the frequency of and detail for monitoring, auditing and review processes.
-* Outline change management requirements.
-* Outline processes for internal and external stakeholder engagement.
-* Establish whistleblower policies to facilitate reporting of serious AI system concerns.
-* Detail and test incident response plans.
-* Verify that formal AI risk management policies align to existing legal standards, and industry best practices and norms.
 * Establish AI risk management policies that broadly align to AI system trustworthy characteristics.
+* Define key terms and concepts related to AI systems and the scope of their intended use.
+* Address the use of sensitive or otherwise risky data.
+* Outline and document risk mapping and measurement processes and standards.
+* Verify that formal AI risk management policies align to existing legal standards, and industry best practices and norms.
 * Verify that formal AI risk management policies include currently deployed and third-party AI systems.
+* Detail standards for experimental design, data quality, and model training.
+* Detail model testing and validation processes.
+* Detail and test incident response plans.
 
 </details>
 

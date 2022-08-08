@@ -13,9 +13,11 @@ order_number: 3
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Clear policies and procedures are necessary to communicate roles and responsibilities for the Map, Measure and Manage functions across the AI lifecycle.
+AI systems are dynamic and may perform in unexpected ways once deployed. Continuous monitoring is a risk management process for tracking unexpected issues and performance, in real-time or at a specific frequency, across the AI system lifecycle.
 
-Standardized documentation can operationalize how organizational AI risk management processes are implemented and recorded. Systematizing documentation can also enhance accountability efforts. By adding their contact information to a work product document, AI actors can improve communication, increase ownership of work products, and potentially enhance consideration of product quality. Documentation may generate downstream benefits related to improved system replicability and robustness. Proper documentation storage and access procedures allow for quick retrieval of critical information during a negative incident.
+Incident response and “appeal and override” are commonly used processes in information technology management that can be adopted for AI systems. These processes enable real-time flagging of potential incidents, and human adjudication of system outcomes.
+
+Establishing and maintaining incident response plans can reduce the likelihood of additive impacts during an AI incident. Smaller organizations which may not have fulsome governance programs, can utilize incident response plans for addressing system failures, abuse and misuse.
 
 </details>
 
@@ -34,7 +36,7 @@ Standardized documentation can operationalize how organizational AI risk managem
     * Down- and up-stream dependencies
     * Plans for deployment, monitoring, and change management
     * Stakeholder engagement plans
-* Verify documentation policies for AI systems are standardized and current across the organization.
+* Verify documentation policies for AI systems are in place, regularly, updated and followed across the organization.
 * Establish policies for a model documentation inventory system and regularly review its completeness, usability, and efficacy.
 * Establish mechanisms to regularly review the efficacy of risk management processes.
 * Identify AI actors responsible for evaluating efficacy of risk management processes and approaches, and for course-correction based on results.

@@ -14,13 +14,9 @@ order_number: 1
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-To enhance organizational capacity for anticipating risks, AI actors should reflect a diversity of experience, expertise and backgrounds. Consultation with external personnel may be necessary when internal teams lack a diverse range of lived experiences or disciplinary expertise.
+To enhance organizational capacity and capability for anticipating risks, AI actors should reflect a diversity of experience, expertise and backgrounds. Consultation with external personnel may be necessary when internal teams lack a diverse range of lived experiences or disciplinary expertise.
 
-Research has shown that technicians with the same demographic backgrounds make similar misjudgments. To extend the benefits of diversity, equity, and inclusion to both the users and AI actors, it is recommended that teams are composed of a diverse group of individuals who reflect a range of backgrounds, perspectives and expertise. A diverse team enables more open sharing of ideas and assumptions about the AI system purpose and can help organizations understand:
-* How the AI system may impact a wide variety of users;
-* How users might interact with the system;
-* Effectiveness of troubleshooting efforts, such as feedback channels; 
-* How the system may create impacts beyond the intended users of the system.
+To extend the benefits of diversity, equity, and inclusion to both the users and AI actors, it is recommended that teams are composed of a diverse group of individuals who reflect a range of backgrounds, perspectives and expertise. 
 
 Without commitment from senior leadership, beneficial aspects of team diversity and inclusion can be overridden by unstated organizational incentives that inadvertently conflict with the broader values of a diverse workforce.
 

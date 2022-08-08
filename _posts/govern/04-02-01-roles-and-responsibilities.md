@@ -15,7 +15,7 @@ order_number: 1
 <br>
 The development of a risk-aware organizational culture starts with the definition of responsibilities. Under ideal risk management settings, oversight professionals are independent from model developers and report through risk management functions or directly to executives, countering implicit biases such as groupthink. This creates a firewall between technology development and risk management functions, so efforts cannot be easily bypassed or ignored.
 
-There are numerous approaches for establishing strong risk management structures and tailoring them to the organizational risk profiles and resources. Facilitating a culture where AI system design and implementation decisions can be questioned and course-corrected by empowered stakeholders provides organizations with tools to anticipate and effectively manage risks before they materialize.
+Facilitating a culture where AI system design and implementation decisions can be questioned and course-corrected by empowered stakeholders provides organizations with tools to anticipate and effectively manage risks before they materialize.
 
 </details>
 
