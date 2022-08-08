@@ -13,7 +13,7 @@ order_number: 4
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Socio-technical AI risks emerge from the interplay between technical development decisions and how a system is used, who operates it, and the social context into which it is deployed. Establishing a process for clear and comprehensive enumeration of AI system purpose and expectations can assist organizations in identifying and managing risks.
+Socio-technical AI risks emerge from the interplay between technical development decisions and how a system is used, who operates it, and the social context into which it is deployed. Addressing these risks is complex and requires a commitment to understanding how contextual factors may interact with AI lifecycle actions. One such contextual factor is how organizational mission and identified system purpose create incentives within AI system design, development, and deployment tasks that may result in positive and negative impacts. By establishing comprehensive and explicit enumeration of AI system purpose and expectations, organizations can identify and manage these types of risks and benefits.
 
 </details>
 
