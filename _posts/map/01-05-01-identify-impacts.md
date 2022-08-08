@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-05-01
 title: MAP 5.1
 categories:
   - MAP-5
@@ -68,5 +68,7 @@ Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Hea
 Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 2022. [Microsoft-RAI-Impact-Assessment-Template](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
 
 Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. [Microsoft-RAI-Impact-Assessment-Guide](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
+
+https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/
 
 </details>

@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-01-01
 title: MAP 1.1
 categories:
   - MAP-1
@@ -91,6 +91,8 @@ Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of
 
 Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from https://arxiv.org/abs/2011.13416
 
+https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/
+
 **Measurement and evaluation**
 
 Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 375–385. https://doi.org/10.1145/3442188.3445901
@@ -112,6 +114,8 @@ Michael A. Madaio, Luke Stark, Jennifer Wortman Vaughan, and Hanna Wallach. 2020
 Timnit Gebru, Jamie Morgenstern, Briana Vecchione, et al. 2021. Datasheets for Datasets. arXiv:1803.09010. Retrieved from https://arxiv.org/abs/1803.09010
 
 Bender, E. M., Friedman, B. & McMillan-Major, A.,  (2022). A Guide for Writing Data Statements for Natural Language Processing. University of Washington.  Accessed July 14, 2022. .https://techpolicylab.uw.edu/wp-content/uploads/2021/11/Data_Statements_Guide_V2.pdf
+
+https://ai.facebook.com/blog/system-cards-a-new-resource-for-understanding-how-ai-systems-work/
 
 **When not to deploy**
 

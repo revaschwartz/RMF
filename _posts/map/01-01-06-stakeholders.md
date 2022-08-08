@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-01-06
 title: MAP 1.6
 categories:
   - MAP-1

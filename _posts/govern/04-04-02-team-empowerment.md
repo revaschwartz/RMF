@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 04-04-02
 title: GOVERN 4.2
 categories:
   - GOVERN-4
@@ -47,5 +47,7 @@ Institutions, E-23 (Sept. 2017).
 GAO, “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities,” GAO@100 (GAO-21-519SP), June 2021, https://www.gao.gov/assets/gao-21-519sp.pdf.
 
 Donald Sull, Stefano Turconi, and Charles Sull, “When It Comes to Culture, Does Your Company Walk the Talk?” MIT Sloan Mgmt. Rev., 2020, https://sloanreview.mit.edu/article/when-it-comes-to-culture-does-your-company-walk-the-talk.
+
+Kathy Baxter, AI Ethics Maturity Model, Salesforce https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf
 
 </details>

@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-01-02
 title: MAP 1.2
 categories:
   - MAP-1
@@ -39,5 +39,7 @@ Column H content goes here.
 <summary markdown="span">**What are some informative references?**</summary>      
 <br>
 Sina Fazelpour and Maria De-Arteaga. 2022. Diversity in sociotechnical machine learning systems. Big Data & Society 9, 1 (Jan. 2022). DOI: https://doi.org/10.1177%2F20539517221082027
+
+Microsoft Community Jury , Azure Application Architecture Guide, https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/
 
 </details>

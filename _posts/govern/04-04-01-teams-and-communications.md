@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 04-04-01
 title: GOVERN 4.1
 categories:
   - GOVERN-4
@@ -15,7 +15,7 @@ order_number: 1
 <br>
 A strong risk culture and accompanying practices can help organizations effectively triage the most critical risks. Organizations in some industries implement three (or more) "lines of defense," where separate teams are held accountable for different aspects of the system lifecycle, such as development, risk management, and auditing.  While a traditional three-lines approach may be impractical for smaller organizations, leadership can commit to cultivating a strong risk culture through other means. For example, “effective challenge,” is a culture-based practice that encourages critical thinking and questioning of important design and implementation decisions by experts with the authority and stature to make such changes.
 
-Red-teaming is also another risk management approach. This practice consists of adversarial testing of AI systems under stress conditions to seek out failure modes or vulnerabilities in the system. Red-teams are composed of external experts or personnel who are independent from the AI design and development teams.
+Red-teaming is another risk management approach. This practice consists of adversarial testing of AI systems under stress conditions to seek out failure modes or vulnerabilities in the system. Red-teams are composed of external experts or personnel who are independent from internal AI actors.
 
 </details>
 
@@ -53,5 +53,7 @@ D. Reisman, J. Schultz, K. Crawford, and M. Whittaker, “Algorithmic Impact Ass
 A. D. Selbst, “An Institutional View Of Algorithmic Impact Assessments,” Harvard Journal of Law & Technology, vol. 35, no. 1, 2021
 
 Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/
+
+Kathy Baxter, AI Ethics Maturity Model, Salesforce https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf
 
 </details>

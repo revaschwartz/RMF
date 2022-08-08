@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 04-05-01
 title: GOVERN 5.1
 categories:
   - GOVERN-5
@@ -13,9 +13,9 @@ order_number: 1
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Internal and laboratory-based system testing is crucially important, but the true test of an AI system is whether it is fit for purpose in a real-world setting, its risk is managed and its negative impact is minimized.
+Internal and laboratory-based system testing is crucially important, but the true test of an AI system is whether it is fit for purpose in a real-world setting, its risk is managed, and its negative impact is minimized.
 
-Participatory stakeholder engagement is one type of qualitative activity to help AI actor teams answer questions such as whether to pursue a project or how to design with impact in mind. The consideration of how to convene a group and the kinds of individuals, groups, or community organizations to include is an iterative process connected to the purpose of the system being pursued. Other factors relate to how to collaboratively and respectfully capture stakeholder feedback and insight that is useful, without being a solely perfunctory exercise.
+Participatory stakeholder engagement is one type of qualitative activity to help AI actors answer questions such as whether to pursue a project or how to design with impact in mind. The consideration of how to convene a group and the kinds of individuals, groups, or community organizations to include is an iterative process connected to the purpose of the system being pursued. Other factors relate to how to collaboratively and respectfully capture stakeholder feedback and insight that is useful, without being a solely perfunctory exercise.
 
 These activities are best carried out by personnel with expertise in participatory practices, qualitative methods, and translation of contextual feedback for technical audiences.
 
@@ -53,5 +53,7 @@ Rumman Chowdhury and Jutta Williams, "Introducing Twitter’s first algorithmic 
 Leonard Haas and Sebastian Gießler, “In the realm of paper tigers – exploring the failings of AI ethics guidelines,” AlgorithmWatch, 2020, available at https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/.
 
 Josh Kenway, Camille Francois, Dr. Sasha Costanza-Chock, Inioluwa Deborah Raji, & Dr. Joy Buolamwini. 2022. Bug Bounties for Algorithmic Harms? Algorithmic Justice League. Accessed July 14, 2022. https://www.ajl.org/bugs
+
+Microsoft Community Jury , Azure Application Architecture Guide, https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/
 
 </details>

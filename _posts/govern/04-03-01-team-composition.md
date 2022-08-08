@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 04-03-01
 title: GOVERN 3.1
 categories:
   - GOVERN-3
@@ -16,11 +16,11 @@ order_number: 1
 <br>
 To enhance organizational capacity for anticipating risks, AI actors should reflect a diversity of experience, expertise and backgrounds. Consultation with external personnel may be necessary when internal teams lack a diverse range of lived experiences or disciplinary expertise.
 
-Research has shown that technicians with the same demographic backgrounds make similar misjudgments. To extend the benefits of diversity, equity, and inclusion to both the users and developers of it is recommended that teams are composed of a diverse group of individuals who reflect a range of backgrounds, perspectives and expertise. A diverse team enables more open sharing of ideas and assumptions about the AI system purpose and can help organizations understand:
+Research has shown that technicians with the same demographic backgrounds make similar misjudgments. To extend the benefits of diversity, equity, and inclusion to both the users and AI actors, it is recommended that teams are composed of a diverse group of individuals who reflect a range of backgrounds, perspectives and expertise. A diverse team enables more open sharing of ideas and assumptions about the AI system purpose and can help organizations understand:
 * How the AI system may impact a wide variety of users;
 * How users might interact with the system;
 * Effectiveness of troubleshooting efforts, such as feedback channels; 
-How the system may create impacts beyond the intended users of the system.
+* How the system may create impacts beyond the intended users of the system.
 
 Without commitment from senior leadership, beneficial aspects of team diversity and inclusion can be overridden by unstated organizational incentives that inadvertently conflict with the broader values of a diverse workforce.
 
@@ -51,9 +51,7 @@ Dylan Walsh, “How can human-centered AI fight bias in machines and people?” 
 
 Michael Li, “To Build Less-Biased AI, Hire a More Diverse Team,” Harvard Bus. Rev., 2020, available at https://hbr.org/2020/10/to-build-less-biased-ai-hire-a-more-diverse-team.
 
-Bo Cowgill et al., “Biased Programmers? Or Biased Data? A Field Experiment in Operationalizing
-
-AI Ethics,” 2020, available at https://arxiv.org/pdf/2012.02394.pdf.
+Bo Cowgill et al., “Biased Programmers? Or Biased Data? A Field Experiment in Operationalizing AI Ethics,” 2020, available at https://arxiv.org/pdf/2012.02394.pdf.
 
 N. Ellemers and F. Rink, “Diversity in work groups,” Current opinion in psychology, vol. 11, pp. 49–53, 2016.
 

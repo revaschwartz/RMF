@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 04-02-01
 title: GOVERN 2.1
 categories:
   - GOVERN-2 
@@ -32,7 +32,7 @@ There are numerous approaches for establishing strong risk management structures
     * AI acquisition and procurement
     * Impact assessment functions
     * Oversight functions 
-* Establish policies that promote regular communication among teams participating in AI risk management efforts.
+* Establish policies that promote regular communication among AI actors participating in AI risk management efforts.
 * Establish policies that separate management of AI system development functions from AI system testing functions, to enable independent course-correction of AI systems.
 * Establish policies to prevent conflicts of interest, and counteract confirmation bias and market incentives that may hinder AI risk management efforts.
 

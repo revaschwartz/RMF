@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-05-03
 title: MAP 5.3
 categories:
   - MAP-5
@@ -18,7 +18,7 @@ The final output of the Map function is the go/no-go decision for deploying the 
 
 Risk mapping should also list system benefits beyond the status quo. Go/no-go decisions to deploy may be made by an independent third-party or organizational management. For higher risk systems, it is often appropriate – and may well be critical – for technical or risk executives to be involved in the approval of go/no-go decisions to deploy. 
 
-The decision to deploy should not be made by AI design and development teams, whose objective judgment may be hindered by the incentive to deploy.
+The decision to deploy should not be made by AI actors carrying out design and development functions, whose objective judgment may be hindered by the incentive to deploy systems in which they were closely involved.
 
 </details>
 

@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 04-01-03
 title: GOVERN 1.3
 categories:
   - GOVERN-1
@@ -34,7 +34,7 @@ Standardized documentation can operationalize how organizational AI risk managem
     * Down- and up-stream dependencies
     * Plans for deployment, monitoring, and change management
     * Stakeholder engagement plans
-* Verify documentation policies for AI systems are standardized across the organization and up to date.
+* Verify documentation policies for AI systems are standardized and current across the organization.
 * Establish policies for a model documentation inventory system and regularly review its completeness, usability, and efficacy.
 * Establish mechanisms to regularly review the efficacy of risk management processes.
 * Identify AI actors responsible for evaluating efficacy of risk management processes and approaches, and for course-correction based on results.

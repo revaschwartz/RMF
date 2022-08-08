@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-05-02
 title: MAP 5.2
 categories:
   - MAP-5

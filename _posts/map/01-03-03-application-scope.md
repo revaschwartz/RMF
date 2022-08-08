@@ -1,5 +1,5 @@
 ---
-date: 2012-01-16
+date: 01-03-03
 title: MAP 3.3
 categories:
   - MAP-3
@@ -27,7 +27,7 @@ For example, open-ended chatbot systems that interact with the public on the int
     * How outcomes may directly or indirectly impact users and stakeholders.
     * Length of time the system is deployed in between re-trainings. 
     * Geographical regions in which the system operates.
-* Engage AI actors in legal and procurement functions when specifying target application scope.
+* Engage AI actors from legal and procurement functions when specifying target application scope.
 
 </details>
 
