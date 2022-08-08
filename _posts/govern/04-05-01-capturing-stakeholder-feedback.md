@@ -13,6 +13,8 @@ order_number: 1
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
+Beyond Internal and laboratory-based system testing, organizational policies and practices should also consider AI system fitness-for-purpose related to the intended context of use.
+
 Participatory stakeholder engagement is one type of qualitative activity to help AI actors answer questions such as whether to pursue a project or how to design with impact in mind. The consideration of how to convene a group and the kinds of individuals, groups, or community organizations to include is an iterative process connected to the purpose of the system being pursued. Other factors relate to how to collaboratively and respectfully capture stakeholder feedback and insight that is useful, without being a solely perfunctory exercise.
 
 These activities are best carried out by personnel with expertise in participatory practices, qualitative methods, and translation of contextual feedback for technical audiences.
