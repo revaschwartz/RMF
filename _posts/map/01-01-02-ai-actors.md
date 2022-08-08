@@ -13,7 +13,7 @@ order_number: 2
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>      
 <br>
-Successfully mapping context requires a team of AI actors with a diversity of experience, expertise, abilities and backgrounds, and with the resources and independence to engage in critical inquiry. A diverse and empowered team increases the ability of an organization to broaden their contextual perspectives, check their assumptions about context of use, recognize when systems are not functional within and outside of the intended context, and identify constraints in real world applications that may lead to harmful impacts.
+Successfully mapping context requires a team of AI actors with a diversity of experience, expertise, abilities and backgrounds, and with the resources and independence to engage in critical inquiry. 
 
 Having a diverse team contributes to more open sharing of ideas and assumptions about the purpose and function of the technology being designed and developed – making these implicit aspects more explicit. The benefit of a diverse staff in managing AI risks is not the beliefs or presumed beliefs of individual workers, but the behavior that results from a collective perspective. An environment which fosters critical inquiry creates opportunities to surface problems and identify existing and emergent risks.
 

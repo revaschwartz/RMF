@@ -24,8 +24,8 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 <summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
 * Maintain awareness and documentation of the individuals, groups, or communities who make up the system's internal and external stakeholders.
-* Establish mechanisms for regular communication and feedback between relevant AI actors and internal or external stakeholders related to system design or deployment decisions. 
 * Verify that appropriate skills and practices are available in-house for carrying out stakeholder engagement activities such as eliciting, capturing, and synthesizing stakeholder feedback, and translating it for AI design and development functions.
+* Establish mechanisms for regular communication and feedback between relevant AI actors and internal or external stakeholders related to system design or deployment decisions. 
 * Define which AI actors, beyond AI design and development teams, will review system design, implementation, and operation tasks. Define which AI actors will administer and implement test, evaluation, verification, and validation (TEVV) tasks across the AI lifecycle.
 
 </details>

@@ -14,7 +14,7 @@ order_number: 3
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-After mapping context, the AI system scope should be narrowed. Systems that function in a narrow scope tend to enable better mapping, measurement, and management of risks in the learning or decision-making tasks and the system context. A narrow application scope also helps ease oversight functions and related resources within an organization.
+Systems that function in a narrow scope tend to enable better mapping, measurement, and management of risks in the learning or decision-making tasks and the system context. A narrow application scope also helps ease oversight functions and related resources within an organization.
 
 For example, open-ended chatbot systems that interact with the public on the internet have a large number of risks that may be difficult to map, measure, and manage due to the variability from both the decision-making task and the operational context. 
 

@@ -29,17 +29,17 @@ Mapping context may include examination of the following:
 <summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
 * Pursue AI system design purposefully, after non-AI solutions are considered. 
-* Collaboratively consider intended AI system design tasks along with unanticipated purposes.
-* Maintain awareness of industry, technical, and applicable legal standards.
-* Track and document existing AI systems held by the organization, and those maintained or supported by third-party entities.
-* Gain and maintain awareness about evaluating scientific claims related to AI system performance and benefits before launching into system design.
 * Define and document the task, purpose, minimum functionality, and benefits of the AI system to inform considerations about whether the project is worth pursuing.
-* Define the AI system context of use, including: 
+* Maintain awareness of industry, technical, and applicable legal standards.
+* Collaboratively consider intended AI system design tasks along with unanticipated purposes.
+* Determine the user and organizational requirements, including business and technical requirements.
+* Define the AI system context of use, including:
     * operational environment
     * impacts to individuals, groups, communities, organizations, and society
     * user characteristics and tasks
     * social environment.
-* Determine the user and organizational requirements, including business and technical requirements.
+* Track and document existing AI systems held by the organization, and those maintained or supported by third-party entities.
+* Gain and maintain awareness about evaluating scientific claims related to AI system performance and benefits before launching into system design.
 * Identify human-AI interaction and/or roles, such as whether the application will support or replace human decision making. 
 * Plan for risks related to human-AI configurations, and document requirements, roles, and responsibilities for human oversight of deployed systems.
 

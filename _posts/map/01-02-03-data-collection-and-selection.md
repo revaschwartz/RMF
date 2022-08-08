@@ -20,19 +20,13 @@ Other risks arise when selected datasets and/or attributes within datasets are n
 
 Collected data may differ significantly from what occurs in the real world. Large scale datasets used in AI systems often do not include representation of people who have been historically excluded. This may have a disproportionately negative impact on black, indigenous, and people of color, women, LGBTQ+ individuals, people with disabilities, or people with limited access to computer network technologies. 
 
-To manage the dataset risks described above, it is important to:
-* have a clear understanding of data content (e.g., data dictionaries, datasheets), data lineage, provenance, representativeness, legal basis for use, and security
-* follow experimental design best practices
-* consider data suitability and data privacy concerns
-* empirically validate underlying constructs and concepts in data selection.
-
 </details>
 
 <details>
 <summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
 
 * Document assumptions made and techniques used during the selection, curation, preparation, and analysis of data, and when identifying constructs and proxy targets, and developing indices – especially when seeking to measure concepts that are inherently unobservable (e.g. "hireability," "criminality." "lendability").
-* Map adherence to policies that address data and construct validity, bias, privacy and security for AI systems and verify documentation, oversight, and audit function processes.
+* Map adherence to policies that address data and construct validity, bias, privacy and security for AI systems and verify documentation, oversight,and processes.
 * Establish processes and practices that employ experimental design techniques for data collection, selection, and management practices.
 * Establish practices to ensure data used in AI systems is linked to the documented purpose of the AI system (e.g., by causal discovery methods).
 * Establish and document processes to ensure that test and training data lineage is well understood, traceable, and metadata resources are available for mapping risks. 
@@ -41,7 +35,7 @@ To manage the dataset risks described above, it is important to:
     * Gain and maintain contextual awareness and knowledge about how human behavior is reflected in datasets, organizational factors and dynamics, and society.
     * Identify participatory approaches for responsible Human-AI configurations and oversight tasks, taking into account sources of cognitive bias. 
     * Identify techniques to manage and mitigate sources of bias (systemic, computational, human-cognitive) in computational models and systems, and the assumptions and decisions in their development.
-* Follow standard statistical principles and document the extent to which the proposed technology does not meet standard validation criteria..
+* Follow standard statistical principles and document the extent to which the proposed technology does not meet standard validation criteria.
 * Investigate and document potential negative impacts due to supply chain issues that may conflict with organizational values and principles.
 
 </details>

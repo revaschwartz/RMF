@@ -14,9 +14,9 @@ order_number: 1
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Due to the complex nature of AI technology, organizations often engage third-party support. Technologies and personnel from third-parties are another source of risk to consider during AI risk management activities. Such risks may be difficult to map since third-party provider risk tolerances may not be the same as the contracting institution.
+Technologies and personnel from third-parties are another source of risk to consider during AI risk management activities. Such risks may be difficult to map since third-party provider risk tolerances may not be the same as the contracting institution.
 
-Commercial, open source, and other freely-available technologies should be screened for third-party risks and transparently documented. For example, many reports suggest that the use of commercial large language models are a source of AI risks. These models are popular with AI developers due to their ease of use for inference tasks, and tend to rely on large uncurated web dataset or often have undisclosed origins. Large scale use of these models has raised concerns about privacy, bias, and unintended effects along with possible introduction of increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity. 
+For example, the use of commercial large language models, which tend to rely on large uncurated web dataset or often have undisclosed origins, has raised concerns about privacy, bias, and unintended effects along with possible introduction of increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity.
 
 </details>
 

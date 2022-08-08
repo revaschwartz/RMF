@@ -13,7 +13,7 @@ order_number: 2
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-In the course of their work, AI actors often utilize open-source, or otherwise freely available, third-party technologies – some of which have been reported to have privacy, bias, and security risks. Additionally, third-party entities providing AI technologies may not be subjected to the same procurement, human resource, or other risk controls which are applied to more standard technologies. Organizations may consider tightening up internal risk controls for these technology sources.
+In the course of their work, AI actors often utilize open-source, or otherwise freely available, third-party technologies – some of which have been reported to have privacy, bias, and security risks. Organizations may consider tightening up internal risk controls for these technology sources.
 
 </details>
 

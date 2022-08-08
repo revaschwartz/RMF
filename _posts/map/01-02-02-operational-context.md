@@ -14,8 +14,8 @@ order_number: 2
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Once deployed and in use, AI systems may sometimes perform poorly, manifest unanticipated negative impacts, or violate legal or ethical norms. These risks and incidents can result from a variety of factors. One key weakness stems from developing systems in highly-controlled or optimized environments that differ considerably from the deployment context. This practice may contribute to an inability to anticipate downstream uses or constraints. AI actors can reduce the likelihood of such incidents through regular stakeholder engagement and feedback. This input can provide enhanced contextual awareness about how an AI system may interact in its real-world setting. Recommended practices include broad stakeholder engagement with potentially impacted community groups, consideration of user interaction and user experience (UI/UX) factors, and regular system testing and evaluation in non-optimized conditions.
-
+Once deployed and in use, AI systems may sometimes perform poorly, manifest unanticipated negative impacts, or violate legal or ethical norms. These risks and incidents can result from a variety of factors, including developing systems in highly-controlled environments that differ considerably from the deployment context. Regular stakeholder engagement and feedback can provide enhanced contextual awareness about how an AI system may interact in its real-world setting. Example practices include broad stakeholder engagement with potentially impacted community groups, consideration of user interaction and user experience (UI/UX) factors, and regular system testing and evaluation in non-optimized conditions.
+ 
 </details>
 
 <details>
