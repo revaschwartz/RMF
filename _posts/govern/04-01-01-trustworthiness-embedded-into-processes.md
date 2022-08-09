@@ -13,10 +13,7 @@ order_number: 1
 <details>
 <summary markdown="span">**What is this subcategory about?**</summary>
 <br>
-Policies, processes, and procedures are a central component of effective AI risk management and fundamental to individual and organizational accountability. 
-
-Organizational policies and procedures will vary based on available resources and risk profiles, but can help systematize AI actor roles and responsibilities throughout the AI model lifecycle. Without such policies, risk management can be subjective across the organization, and  exacerbate rather than minimize risks over time. 
-Individuals and organizations cannot be held accountable to unwritten, unknown or unrecognized policies. Lack of clear information about responsibilities and chains of command will limit the effectiveness of risk management.
+Connecting policies, processes, and procedures and procedures to trustworthy characteristics can provide a roadmap for organizations looking to enhance internal practices and improve organizational accountability. Integrating trustworthy characteristics from the outset may also help ease organizational resources, by enabling AI actors to develop approaches for considering risk factors early rather than playing catch-up.
 
 </details>
 
