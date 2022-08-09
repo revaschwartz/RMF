@@ -17,8 +17,6 @@ Organizational policies and procedures should be established to ensure that AI a
 
 Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations should apply a risk tolerance approach in which higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources. 
 
-Tying risk management resources to activities such as risk assessment can bolster and empower AI actors and contribute to more streamlined risk management efforts.  
-
 </details>
 
 <details>
