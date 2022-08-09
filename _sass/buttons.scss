@@ -125,11 +125,10 @@
          text-decoration: underline;
         }
 }
-~   
- 
-/** Dropdown Button **/
+
+/* Dropdown Button */
 .dropbtn {
-  background-color: #04AA6D;
+  background-color: transparent;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -161,11 +160,37 @@
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {transform: scale(1.25);}
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {display: block; background-color: #66CDAA; color:black;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {transform: scale(1.25);} 
 
+
+/* buttions to be used */
+
+.cbtn {
+  border: none;
+  background-color: #008CBA;
+  padding: 15px 32px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: relative;
+  left: -58%; /* or right 50% */
+  top: -10%
+}
+
+
+.landingbutton {background-color: #4CAF50;} /* Green */
+
+.faqbtn a {
+  background-color: #008CBA; /* Blue */
+  color: white;
+  } 
