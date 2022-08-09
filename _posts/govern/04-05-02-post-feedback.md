@@ -15,8 +15,7 @@ order_number: 2
 <br>
 Organizational policies and procedures should be established to ensure that AI actors have the processes, knowledge, and expertise required to inform collaborative decisions about system deployment. These decisions are closely tied to AI system and organizational risk tolerance.
 
-Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations should apply a risk tolerance approach in which higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources. 
-
+Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations should apply a risk tolerance approach in which higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources.
 </details>
 
 <details>
