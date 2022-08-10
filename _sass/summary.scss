@@ -79,10 +79,10 @@ summary {
  summary::before {
     padding-right: .25rem;
     font-weight:bolder;    
-    content: '+ '; /* Instead of Triangle closed */
+    content: '+ '; float:right; /* Instead of Triangle closed */
  }
  details[open] summary::before {
     padding-right: .25rem;
     font-weight:bolder;
-    content: '- '; /* Instead of Triangle open */
+    content: '- '; float:right; /* Instead of Triangle open */
  }
