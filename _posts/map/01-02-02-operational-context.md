@@ -12,14 +12,14 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Once deployed and in use, AI systems may sometimes perform poorly, manifest unanticipated negative impacts, or violate legal or ethical norms. These risks and incidents can result from a variety of factors, including developing systems in highly-controlled environments that differ considerably from the deployment context. Regular stakeholder engagement and feedback can provide enhanced contextual awareness about how an AI system may interact in its real-world setting. Example practices include broad stakeholder engagement with potentially impacted community groups, consideration of user interaction and user experience (UI/UX) factors, and regular system testing and evaluation in non-optimized conditions.
  
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Extend documentation beyond system and task requirements to include possible risks due to deployment contexts and human-AI configurations. 
 * Follow stakeholder feedback processes to determine whether a system achieved its documented purpose within a given use context, and whether users can correctly comprehend system outputs or results.
@@ -29,7 +29,7 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 2.2**
 - Does the AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly?
@@ -48,7 +48,7 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 **Context of use**
 

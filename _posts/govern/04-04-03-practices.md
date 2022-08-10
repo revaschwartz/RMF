@@ -11,7 +11,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Organizations committed to risk management acknowledge the importance of identifying AI system limitations, detecting and tracking negative impacts and incidents, and sharing information about these issues with appropriate AI actors. Building organizational capacity requires policies and procedures connected to testing and inquiry. 
 
@@ -27,7 +27,7 @@ Information sharing about impacts or incidents detected during testing or deploy
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Establish policies and procedures to facilitate and equip AI system testing.
 * Establish organizational commitment to identifying AI system limitations and sharing of insights about limitations within appropriate AI actor groups.
 * Establish guidelines for handling and access control related to AI system risks and performance. 
@@ -35,14 +35,14 @@ Information sharing about impacts or incidents detected during testing or deploy
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 S. McGregor, “Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database,” arXiv:2011.08512 [cs], Nov. 2020, arXiv:2011.08512. [Online]. Available: http://arxiv.org/abs/2011.08512
 

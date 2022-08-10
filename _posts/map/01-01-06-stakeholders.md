@@ -12,7 +12,7 @@ order_number: 6
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Risk management should include processes for regular and meaningful communication with stakeholder groups. Stakeholders can provide valuable input related to system gaps and limitations. Organizations may differ in the types and number of stakeholders with which they engage. 
 
@@ -21,7 +21,7 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Maintain awareness and documentation of the individuals, groups, or communities who make up the system's internal and external stakeholders.
 * Verify that appropriate skills and practices are available in-house for carrying out stakeholder engagement activities such as eliciting, capturing, and synthesizing stakeholder feedback, and translating it for AI design and development functions.
@@ -31,7 +31,7 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 1.6**
 - To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
@@ -49,7 +49,7 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Vincent T. Covello. 2021. Stakeholder Engagement and Empowerment. In Communicating in Risk, Crisis, and High Stress Situations (Vincent T. Covello, ed.), 87-109. DOI: https://doi.org/10.1002/9781119081753.ch5
 

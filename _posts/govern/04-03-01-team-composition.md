@@ -12,7 +12,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 To enhance organizational capacity and capability for anticipating risks, AI actors should reflect a diversity of experience, expertise and backgrounds. Consultation with external personnel may be necessary when internal teams lack a diverse range of lived experiences or disciplinary expertise.
 
@@ -23,7 +23,7 @@ Without commitment from senior leadership, beneficial aspects of team diversity 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 <br>
 Organizational management can:
 * Define policies and hiring practices at the outset that promote interdisciplinary roles, competencies, skills, and capacity for AI efforts.
@@ -34,14 +34,14 @@ Organizational management can:
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Dylan Walsh, “How can human-centered AI fight bias in machines and people?” MIT Sloan Mgmt. Rev., 2021, available at https://mitsloan.mit.edu/ideas-made-to-matter/howcan-human-centered-ai-fight-bias-machine.
 

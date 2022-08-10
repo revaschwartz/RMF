@@ -11,14 +11,14 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 In the course of their work, AI actors often utilize open-source, or otherwise freely available, third-party technologies – some of which have been reported to have privacy, bias, and security risks. Organizations may consider tightening up internal risk controls for these technology sources.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Supply resources such as model documentation templates and software safelists to assist in third-party technology inventory and approval activities.
 * Review third-party material (including data and models) for risks related to bias, data privacy, and security vulnerabilities.
@@ -27,7 +27,7 @@ In the course of their work, AI actors often utilize open-source, or otherwise f
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 4.2**
 - Did you ensure that the AI system can be audited by independent third parties?
@@ -43,7 +43,7 @@ In the course of their work, AI actors often utilize open-source, or otherwise f
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Office of the Comptroller of the Currency. 2021. Comptroller's Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from [OCC](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
 

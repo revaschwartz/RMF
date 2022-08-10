@@ -12,7 +12,7 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 The likelihood of AI system impacts identified in Map 5.1 should be evaluated. Potential impacts should be documented and triaged. 
 
@@ -21,7 +21,7 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Establish assessment scales for measuring AI system impact. Scales may be qualitative, such as red-amber-green (RAG), or may entail simulations or econometric approaches. Document and apply scales uniformly across the organization’s AI portfolio. 
 * Apply impact assessments regularly at key stages in the AI lifecycle, connected to system impacts and frequency of system updates. 
@@ -30,7 +30,7 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 5.2**
 - Which population(s) does the AI system impact?
@@ -47,7 +47,7 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). Retrieved from [op.europa.eu](https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en)
 

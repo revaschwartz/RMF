@@ -11,7 +11,7 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>      
+<summary markdown="span">**About**</summary>      
 <br>
 Successfully mapping context requires a team of AI actors with a diversity of experience, expertise, abilities and backgrounds, and with the resources and independence to engage in critical inquiry. 
 
@@ -20,7 +20,7 @@ Having a diverse team contributes to more open sharing of ideas and assumptions 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Establish interdisciplinary teams to reflect a wide range of skills, competencies, and capacity for AI efforts. Verify that team membership includes both demographic diversity, broad domain expertise, and lived experiences. Document team composition. 
 
@@ -29,14 +29,14 @@ Having a diverse team contributes to more open sharing of ideas and assumptions 
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>  
+<summary markdown="span">**Transparency and Documentation**</summary>  
 
 Column H content goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>      
+<summary markdown="span">**References**</summary>      
 <br>
 Sina Fazelpour and Maria De-Arteaga. 2022. Diversity in sociotechnical machine learning systems. Big Data & Society 9, 1 (Jan. 2022). DOI: https://doi.org/10.1177%2F20539517221082027
 

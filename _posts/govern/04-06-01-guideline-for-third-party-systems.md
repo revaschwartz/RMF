@@ -11,7 +11,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Organizations usually engage multiple third parties for external expertise, data, software packages (both open source and commercial), and software and hardware platforms across the AI lifecycle.  
 
@@ -22,7 +22,7 @@ Organizational approaches to managing third-party risk should be tailored to the
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 <br>
 * Collaboratively establish policies that address third-party AI systems and data.
 * Establish policies related to:
@@ -33,14 +33,14 @@ Organizational approaches to managing third-party risk should be tailored to the
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 

@@ -11,14 +11,14 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Connecting policies, processes, and procedures and procedures to trustworthy characteristics can provide a roadmap for organizations looking to enhance internal practices and improve organizational accountability. Integrating trustworthy characteristics from the outset may also help ease organizational resources, by enabling AI actors to develop approaches for considering risk factors early rather than playing catch-up.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 <br>
 Establish and maintain formal AI risk management policies that address AI system trustworthy characteristics throughout the system’s lifecycle. Organizational policies should:
 * Establish AI risk management policies that broadly align to AI system trustworthy characteristics.
@@ -34,14 +34,14 @@ Establish and maintain formal AI risk management policies that address AI system
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021), https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html.
 

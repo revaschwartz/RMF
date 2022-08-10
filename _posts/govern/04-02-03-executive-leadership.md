@@ -11,7 +11,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Senior leadership in organizations that maintain an AI portfolio should be aware of AI risks and affirm the organizational appetite for such risks. 
 
@@ -20,7 +20,7 @@ Accountability ensures that a specific team and individual is responsible for AI
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Organizational management can:
     * Declare risk tolerances for developing or using AI systems.
     * Support AI risk management efforts, and play an active role in such efforts.
@@ -30,14 +30,14 @@ Accountability ensures that a specific team and individual is responsible for AI
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 

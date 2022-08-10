@@ -11,7 +11,7 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Through regular training, AI actors should maintain awareness of:
 * AI risk management goals and their role in achieving them. 
@@ -20,7 +20,7 @@ Through regular training, AI actors should maintain awareness of:
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Establish policies for personnel addressing ongoing education about:
     * Applicable laws and regulations for AI systems.
     * Negative impacts that may arise from AI systems.
@@ -33,14 +33,14 @@ Through regular training, AI actors should maintain awareness of:
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021), https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html.
 

@@ -12,7 +12,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Technologies and personnel from third-parties are another source of risk to consider during AI risk management activities. Such risks may be difficult to map since third-party provider risk tolerances may not be the same as the contracting institution.
 
@@ -21,7 +21,7 @@ For example, the use of commercial large language models, which tend to rely on 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Review audit reports, testing results, product roadmaps, warranties, terms of service, end-user license agreements, contracts, and other documentation related to third-party entities to assist in value assessment and risk management activities.
 * Review third-party software release schedules and software change management plans (hotfixes, patches, updates, forward- and backward- compatibility guarantees) for irregularities that may contribute to AI system risks.
@@ -31,7 +31,7 @@ For example, the use of commercial large language models, which tend to rely on 
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 4.1**
 - Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
@@ -46,7 +46,7 @@ For example, the use of commercial large language models, which tend to rely on 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 **Language  models**
 

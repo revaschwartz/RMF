@@ -11,14 +11,14 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Standardized documentation can operationalize how organizational AI risk management processes are implemented and recorded. Systematizing documentation can also enhance accountability efforts. By adding their contact information to a work product document, AI actors can improve communication, increase ownership of work products, and potentially enhance consideration of product quality. Documentation may generate downstream benefits related to improved system replicability and robustness. Proper documentation storage and access procedures allow for quick retrieval of critical information during a negative incident.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Establish policies and procedures for monitoring AI system performance, and to address bias, securitiy, privacy and other trustworthy characteristics, across the lifecycle of the system.
 * Establish policies for AI system incident response, or confirm that existing incident response policies address AI systems.
 * Establish policies to define organizational functions and personnel responsible for AI system monitoring and incident response activities.
@@ -27,14 +27,14 @@ Standardized documentation can operationalize how organizational AI risk managem
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. URL: https://nvlpubs. nist. gov/nistpubs/CSWP/NIST. CSWP, 4162018.
 

@@ -12,7 +12,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 AI systems are socio-technical in nature and can have positive, neutral, or negative implications that extend beyond their stated purpose. Negative impacts can be wide- ranging and affect individuals, groups, communities, organizations, and society, as well as the environment and national security. 
 
@@ -21,7 +21,7 @@ The Map function provides an opportunity for organizations to assess potential A
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Establish and document stakeholder engagement processes at the earliest stages of system formulation to identify potential impacts from the AI system on individuals, groups, communities, organizations, and society. 
 * Employ methods such as value sensitive design (VSD) to identify misalignments between organizational and societal values, and system implementation and impact. 
@@ -32,7 +32,7 @@ The Map function provides an opportunity for organizations to assess potential A
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 5.1**
 - If it relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated?
@@ -49,7 +49,7 @@ The Map function provides an opportunity for organizations to assess potential A
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Susanne Vernim, Harald Bauer, Erwin Rauch, et al. 2022. A value sensitive design approach for designing AI-based worker assistance systems in manufacturing. Procedia Comput. Sci. 200, C (2022), 505–516. [DOI](https://doi.org/10.1016/j.procs.2022.01.248)
 

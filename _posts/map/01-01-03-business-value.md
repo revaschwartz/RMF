@@ -11,14 +11,14 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>      
+<summary markdown="span">**About**</summary>      
 <br>
 AI systems should present a business benefit beyond the status quo when considering inherent risks and implicit or explicit costs. Defining and documenting the specific business purpose of an AI system helps teams to evaluate risks and increases the clarity of “go/no-go” decisions about whether to deploy.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Build transparent practices into AI system development processes.
 * Review the documented system purpose from a socio-technical perspective and in consideration of societal values.
@@ -29,7 +29,7 @@ AI systems should present a business benefit beyond the status quo when consider
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>  
+<summary markdown="span">**Transparency and Documentation**</summary>  
 
 **Transparency Considerations – Key Questions: MAP 1.3**
 - How does the AI system help the entity meet its goals and objectives?
@@ -45,7 +45,7 @@ AI systems should present a business benefit beyond the status quo when consider
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>      
+<summary markdown="span">**References**</summary>      
 <br>
 Abeba Birhane, Pratyusha Kalluri, Dallas Card, et al. 2022. The Values Encoded in Machine Learning Research. arXiv:2106.15590. Retrieved from https://arxiv.org/abs/2106.15590
 

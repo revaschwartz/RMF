@@ -12,7 +12,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Many AI system risks can be traced to insufficient testing and evaluation processes. For example, machine learning requires large scale datasets. The difficulty of finding the “right” data may lead AI actors to select datasets based more on accessibility and availability than on suitability. Such decisions may contribute to an environment where the data used in processes is not fully representative of the populations or phenomena that are being modeled, inserting or introducing downstream risks.
 
@@ -23,7 +23,7 @@ Collected data may differ significantly from what occurs in the real world. Larg
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Document assumptions made and techniques used during the selection, curation, preparation, and analysis of data, and when identifying constructs and proxy targets, and developing indices – especially when seeking to measure concepts that are inherently unobservable (e.g. "hireability," "criminality." "lendability").
 * Map adherence to policies that address data and construct validity, bias, privacy and security for AI systems and verify documentation, oversight,and processes.
@@ -41,7 +41,7 @@ Collected data may differ significantly from what occurs in the real world. Larg
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 2.3**
 - Are there any known errors, sources of noise, or redundancies in the data?
@@ -61,7 +61,7 @@ Collected data may differ significantly from what occurs in the real world. Larg
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 **Challenges with dataset selection**
 

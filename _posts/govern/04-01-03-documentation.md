@@ -11,7 +11,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 AI systems are dynamic and may perform in unexpected ways once deployed. Continuous monitoring is a risk management process for tracking unexpected issues and performance, in real-time or at a specific frequency, across the AI system lifecycle.
 
@@ -22,7 +22,7 @@ Establishing and maintaining incident response plans can reduce the likelihood o
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Establish and regularly review documentation policies that address information related to:
     * AI actor contact information
     * Business justification
@@ -45,14 +45,14 @@ Establishing and maintaining incident response plans can reduce the likelihood o
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011).
 

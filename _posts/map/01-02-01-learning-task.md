@@ -13,21 +13,21 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 AI actors should define the technical learning or decision-making task an AI system is designed to accomplish, along with the benefits that the system will provide. The clearer and narrower the task definition, the easier it is to map its benefits and risks, leading to more fulsome risk management.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Narrowly define and document AI system learning task(s) along with known assumptions and limitations.
 
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 2.1**
 
@@ -48,7 +48,7 @@ AI actors should define the technical learning or decision-making task an AI sys
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Leong, Brenda (2020). The Spectrum of Artificial Intelligence - An Infographic Tool. Future of Privacy Forum. Retrieved from https://fpf.org/blog/the-spectrum-of-artificial-intelligence-an-infographic-tool/
 

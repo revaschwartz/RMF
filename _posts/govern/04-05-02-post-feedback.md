@@ -11,7 +11,7 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Organizational policies and procedures should be established to ensure that AI actors have the processes, knowledge, and expertise required to inform collaborative decisions about system deployment. These decisions are closely tied to AI system and organizational risk tolerance.
 
@@ -19,7 +19,7 @@ Risk tolerance, established by organizational leadership, reflects the level and
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Explicitly acknowledge that AI systems, and the use of AI, present inherent costs and risks along with potential benefits.
 * Define reasonable risk tolerances for AI systems informed by laws, regulation, best practices, or industry standards.
 * Establish policies that define how to assign AI systems to established risk tolerance levels by combining system impact assessments with the likelihood that an impact occurs. Such assessment often entails some combination of:
@@ -31,14 +31,14 @@ Risk tolerance, established by organizational leadership, reflects the level and
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 

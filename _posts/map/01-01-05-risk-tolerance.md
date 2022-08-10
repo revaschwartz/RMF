@@ -12,7 +12,7 @@ order_number: 5
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Risk tolerance reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. 
 
@@ -25,7 +25,7 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Establish risk tolerance levels for AI systems and allocate the appropriate oversight resources to each level.
 * Identify maximum allowable risk thresholds above which the system will not be deployed, within the contextual or application setting. 
@@ -34,7 +34,7 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 1.5**
 - What justifications, if any, has the entity provided for the assumptions, boundaries, and limitations of the AI system?
@@ -49,7 +49,7 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
 

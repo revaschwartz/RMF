@@ -12,7 +12,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Systems that function in a narrow scope tend to enable better mapping, measurement, and management of risks in the learning or decision-making tasks and the system context. A narrow application scope also helps ease oversight functions and related resources within an organization.
 
@@ -21,7 +21,7 @@ For example, open-ended chatbot systems that interact with the public on the int
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Consider narrowing contexts for system deployment, including factors related to:
     * How outcomes may directly or indirectly impact users and stakeholders.
@@ -32,7 +32,7 @@ For example, open-ended chatbot systems that interact with the public on the int
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 3.3**
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
@@ -47,7 +47,7 @@ For example, open-ended chatbot systems that interact with the public on the int
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Mark J. Van der Laan and Sherri Rose (2018). Targeted Learning in Data Science. Cham: Springer International Publishing, 2018.
 

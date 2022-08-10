@@ -13,14 +13,14 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Anticipating negative impacts of AI systems is a difficult task. Negative impacts can be due to many factors, such as poor system performance, and may range from minor annoyance to serious injury, financial losses, or regulatory enforcement actions. AI actors can work with a broad set of stakeholders to improve their capacity for assessing system impacts – and subsequently – system risks. Hasty or non-thorough impact assessments may result in erroneous determinations of no-risk for more complex or higher risk systems.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Perform a context analysis to map negative impacts arising from not integrating trustworthiness characteristics. When negative impacts are not direct or obvious, AI actors should engage with external stakeholders to investigate and document:
     * Who could be harmed?
@@ -32,7 +32,7 @@ Anticipating negative impacts of AI systems is a difficult task. Negative impact
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 3.2**
 - To what extent does the system/entity consistently measure progress towards stated goals and objectives?
@@ -47,7 +47,7 @@ Anticipating negative impacts of AI systems is a difficult task. Negative impact
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Abagayle Lee Blank. 2019. Computer vision machine learning and future-oriented ethics. Honors Project. Seattle Pacific University (SPU), Seattle, WA. Available at https://digitalcommons.spu.edu/cgi/viewcontent.cgi?article=1100&context=honorsprojects
 

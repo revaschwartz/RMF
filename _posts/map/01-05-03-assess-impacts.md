@@ -12,7 +12,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 The final output of the Map function is the go/no-go decision for deploying the AI system. This decision should take into account the risks mapped from previous steps and the organizational capacity for their management. 
 
@@ -23,7 +23,7 @@ The decision to deploy should not be made by AI actors carrying out design and d
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Review and examine documentation, including system purpose and benefits, and mapped potential impacts with associated likelihoods. 
 * Document the system's estimated risk.
@@ -32,7 +32,7 @@ The decision to deploy should not be made by AI actors carrying out design and d
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 5.3**
 - To what extent do these policies foster public trust and confidence in the use of the AI system?
@@ -49,7 +49,7 @@ The decision to deploy should not be made by AI actors carrying out design and d
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from [Federal Reserve](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
 

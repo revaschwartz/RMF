@@ -12,14 +12,14 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 AI system benefits should counterbalance the inherent risks and implicit and explicit costs. To identify system benefits, organizations should define and document system purpose and utility, along with foreseeable costs, risks, and negative impacts. Credible justification for anticipated benefits beyond the status quo should be clarified and documented.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Utilize participatory approaches and engage with system end users to evaluate system efficacy and interpretability of AI task output. 
 * Incorporate stakeholder feedback about perceived system benefits beyond the status quo. 
@@ -29,7 +29,7 @@ AI system benefits should counterbalance the inherent risks and implicit and exp
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 3.1**
 - Did you communicate the benefits of the AI system to users?
@@ -44,7 +44,7 @@ AI system benefits should counterbalance the inherent risks and implicit and exp
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Roel Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2021. Hard choices in artificial intelligence. Artificial Intelligence 300 (14 July 2021), 103555, ISSN 0004-3702. DOI: https://doi.org/10.1016/j.artint.2021.103555
 

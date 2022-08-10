@@ -11,7 +11,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Beyond Internal and laboratory-based system testing, organizational policies and practices should also consider AI system fitness-for-purpose related to the intended context of use.
 
@@ -24,7 +24,7 @@ Participatory engagement is not a one-time exercise and should be carried out fr
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Ensure AI risk management policies address explicit mechanisms for receiving, processing, and implementing stakeholder and user feedback that could include:
     * Recourse mechanisms for faulty AI system outputs.
     * Bug bounties.
@@ -37,14 +37,14 @@ Participatory engagement is not a one-time exercise and should be carried out fr
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 ISO, “Ergonomics of human-system interaction — Part 210: Human-centered design for interactive systems,” ISO 9241-210:2019 (2nd ed.), July 2019, https://www.iso.org/standard/77520.html.
 

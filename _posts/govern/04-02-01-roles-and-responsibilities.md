@@ -11,7 +11,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 The development of a risk-aware organizational culture starts with the definition of responsibilities. Under ideal risk management settings, oversight professionals are independent from model developers and report through risk management functions or directly to executives, countering implicit biases such as groupthink. This creates a firewall between technology development and risk management functions, so efforts cannot be easily bypassed or ignored.
 
@@ -20,7 +20,7 @@ Facilitating a culture where AI system design and implementation decisions can b
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Establish policies that define the AI risk management roles and responsibilities for:
     * Boards of directors or advisory committees
     * Senior management
@@ -39,14 +39,14 @@ Facilitating a culture where AI system design and implementation decisions can b
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 Andrew Smith, “Using Artificial Intelligence and Algorithms,” FTC Business Blog (Apr. 8, 2020), available at https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms.
 

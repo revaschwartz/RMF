@@ -11,14 +11,14 @@ order_number: 4
 {::options parse_block_html="true" /}
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 Socio-technical AI risks emerge from the interplay between technical development decisions and how a system is used, who operates it, and the social context into which it is deployed. Addressing these risks is complex and requires a commitment to understanding how contextual factors may interact with AI lifecycle actions. One such contextual factor is how organizational mission and identified system purpose create incentives within AI system design, development, and deployment tasks that may result in positive and negative impacts. By establishing comprehensive and explicit enumeration of AI system purpose and expectations, organizations can identify and manage these types of risks and benefits.
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Reconcile documented concerns about system context of use or purpose against the organization's stated values, mission statements, social responsibility commitments, and AI principles.
 * Reconsider the design, implementation strategy, or deployment of AI systems with potential impacts that do not reflect institutional values.
@@ -26,7 +26,7 @@ Socio-technical AI risks emerge from the interplay between technical development
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 1.4**
 - What goals and objectives does the entity expect to achieve by designing, developing, and/or deploying the AI system?
@@ -42,7 +42,7 @@ Socio-technical AI risks emerge from the interplay between technical development
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 Algorithm Watch. AI Ethics Guidelines Global Inventory. Retrieved from https://inventory.algorithmwatch.org/
 

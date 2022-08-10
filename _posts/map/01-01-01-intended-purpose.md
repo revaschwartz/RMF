@@ -11,7 +11,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>      
+<summary markdown="span">**About**</summary>      
 <br>
 Mapping context may include examination of the following:
 * intended and actual deployment setting.
@@ -26,7 +26,7 @@ Mapping context may include examination of the following:
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Pursue AI system design purposefully, after non-AI solutions are considered. 
 * Define and document the task, purpose, minimum functionality, and benefits of the AI system to inform considerations about whether the project is worth pursuing.
@@ -46,7 +46,7 @@ Mapping context may include examination of the following:
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>         
+<summary markdown="span">**Transparency and Documentation**</summary>         
                      
 **Transparency Considerations – Key Questions: MAP 1.1**
 * Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
@@ -63,7 +63,7 @@ Mapping context may include examination of the following:
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>      
+<summary markdown="span">**References**</summary>      
 <br>
 **Socio-technical systems**
 

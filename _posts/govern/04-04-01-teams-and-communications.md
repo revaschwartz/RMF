@@ -11,7 +11,7 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 A strong risk culture and accompanying practices can help organizations effectively triage the most critical risks. Organizations in some industries implement three (or more) "lines of defense," where separate teams are held accountable for different aspects of the system lifecycle, such as development, risk management, and auditing.  While a traditional three-lines approach may be impractical for smaller organizations, leadership can commit to cultivating a strong risk culture through other means. For example, “effective challenge,” is a culture-based practice that encourages critical thinking and questioning of important design and implementation decisions by experts with the authority and stature to make such changes.
 
@@ -20,7 +20,7 @@ Red-teaming is another risk management approach. This practice consists of adver
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 * Establish policies that require oversight functions (legal, compliance, risk management) from the outset of the system design process.
 * Establish policies that promote effective challenge of AI system design, implementation, and deployment decisions, via mechanisms such as the three lines of defense, model audits, or red-teaming – to ensure that workplace risks such as groupthink do not take hold.
 * Establish policies that incentivize general critical thinking and review at an organizational and procedural level.
@@ -29,14 +29,14 @@ Red-teaming is another risk management approach. This practice consists of adver
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 Column G goes here.
 
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>
+<summary markdown="span">**References**</summary>
 <br>
 H.R. 2231, 116th Cong. (2019), https://www.congress.gov/bill/116th-congress/house-bill/2231/text
 

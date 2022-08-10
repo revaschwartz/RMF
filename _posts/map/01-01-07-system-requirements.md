@@ -12,14 +12,14 @@ order_number: 7
 
 
 <details>
-<summary markdown="span">**What is this subcategory about?**</summary>
+<summary markdown="span">**About**</summary>
 <br>
 AI system development requirements may outpace documentation processes for traditional software. When written requirements are unavailable or incomplete, AI actors may inadvertently overlook business and stakeholder needs, or over-rely on implicit human biases such as confirmation bias and groupthink. To mitigate the influence of these implicit factors, AI actors can seek input from, and develop transparent and actionable recourse mechanisms for, end-users and operators. Engaging external stakeholders in this process  integrates broader perspectives on socio-technical risk factors. Incorporating trustworthy characteristics early in the design phase should be a priority – instead of forcing a solution onto existing systems. 
 
 </details>
 
 <details>
-<summary markdown="span">**How can organizations achieve the outcomes of this subcategory?**</summary>
+<summary markdown="span">**Actions**</summary>
 
 * Proactively incorporate trustworthy characteristics into system requirements.
 * Consider risk factors related to Human-AI configurations and tasks. 
@@ -29,7 +29,7 @@ AI system development requirements may outpace documentation processes for tradi
 </details>
 
 <details>
-<summary markdown="span">**What are the transparency and documentation considerations?**</summary>
+<summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 1.7**
 - What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
@@ -47,7 +47,7 @@ AI system development requirements may outpace documentation processes for tradi
 </details>
 
 <details>
-<summary markdown="span">**What are some informative references?**</summary>    
+<summary markdown="span">**References**</summary>    
 <br>
 National Academies of Sciences, Engineering, and Medicine 2022. Fostering Responsible Computing Research: Foundations and Practices. Washington, DC: The National Academies Press. https://doi.org/10.17226/26507.
 
