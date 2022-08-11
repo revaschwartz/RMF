@@ -160,10 +160,13 @@
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {transform: scale(1.25);}
+.dropdown-content a:hover {
+  transform: scale(1.25);
+  background-color:$header-color;
+}
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block; background-color: #66CDAA; color:black;}
+.dropdown:hover .dropdown-content {display: block; background-color: white; color:black;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {transform: scale(1.25);} 
