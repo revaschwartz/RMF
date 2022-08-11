@@ -22,7 +22,8 @@ Mapping context may include examination of the following:
 * requirements for system deployment and operation. 
 * potential negative impacts to individuals, groups, communities, organizations, and society – or context-specific impacts such as legal requirements or impacts to the environment. 
 * unintended, downstream, or other unknown contextual factors.
-
+These actions can help organizations improve their risk detection, prevention, and management efforts.
+  
 </details>
 
 <details>
